@@ -1,4 +1,5 @@
-<img src="{{ asset('img/breadcrumbs/image3.png')}}" class="uk-animation-kenburns" width="1800" height="600" alt="">
+<img src="{{ asset('img/breadcrumbs/image3.png')}}" uk-img="loading: eager" class="uk-animation-kenburns" width="1800"
+    height="600" alt="">
 <div class="uk-overlay-primary uk-position-cover"></div>
 <div class="uk-overlay uk-position-center uk-light">
     <div class="highlight-score-section" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">

@@ -251,7 +251,7 @@
                     <div uk-scrollspy="cls: uk-animation-scale-up; target: .uk-card; delay: 100; repeat: true">
                         <div class="uk-card uk-card-default uk-card-body">
                             <div class="phone-cont">
-                                <img src="{{ asset('img/phone-sm.png')}}" />
+                                <img loading="lazy" src="{{ asset('img/phone-sm.png')}}" />
                             </div>
                         </div>
                     </div>
