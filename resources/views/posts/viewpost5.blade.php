@@ -4,8 +4,8 @@
 <!-- Breadcrumb -->
 <div class="page-brdc z-back">
     <div class="uk-background-cover uk-height-large uk-panel uk-flex uk-flex-center uk-flex-middle"
-        style="background-image: url(img/events/preseason.jpg);">
-        <h1>Kocha wa timu aridhishwa na kiwango cha juu cha wachezaji wa AZAM FC - Dabo</h1>
+        style="background-image: url('/img/latest/alliance.jpg');">
+        <h1> Azam FC Secures Victory in Thrilling Encounter Against Alliance FC in Azam Sports Federation Cup</h1>
     </div>
 </div>
 
@@ -16,14 +16,14 @@
             <div>
                 <div class="uk-padding">
                     <div>
-                        <img src="{{ asset('img/players/akaminko.png')}}" width="50" height="50">
+                        <img src="{{ asset('img/logo.png')}}" width="50" height="50">
                         <span class="uk-text-middle"> By: Azam FC</span>
                     </div>
                 </div>
             </div>
             <div class="time-col">
                 <div class="uk-padding time-col">
-                    <i class="ri-time-line"></i> Published on: 12/08/2023 | 08:12AM
+                    <i class="ri-time-line"></i> Published on: 17/12/2023
                 </div>
             </div>
 
@@ -34,14 +34,10 @@
 <!-- Post content -->
 <div class="uk-section">
     <div class="uk-container uk-container-small">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-            molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-            numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
-            optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
-            obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam
-            nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,
-            tenetur error, harum nesciunt ipsum debitis quas aliquid.
+        <p>In an electrifying match held today, Azam FC emerged triumphant in their first game of the second round of the Azam Sports Federation Cup, defeating Alliance FC from Mwanza with a final scoreline of 2-1.
         </p>
+        <p>The game, filled with suspense and remarkable plays, saw Azam FC's Alassane scoring the opening goal in the 49th minute, setting the stage for an intense showdown. Alassane's precision and skill showcased the team's determination to excel in the tournament.</p>
+        <p>Azam FC continued to dominate the field, with Akaminko extending their lead by netting the second goal in the 57th minute. Akaminko's contribution added to the team's impressive performance, reflecting their cohesive gameplay and strategic prowess.</p>
     </div>
 </div>
 
@@ -54,12 +50,12 @@
             <div class="widget-header-wrapper ">
                 <div class="widget-header-wrapper__header">
                     <header class="widget-header  ">
-                        <h2 class="widget-header__title">HABARI ZAIDI</h2>
+                        <h2 class="widget-header__title">YOU MIGHT LIKE</h2>
                     </header>
                 </div>
 
                 <div class="widget-header-wrapper__content ">
-                    <a href="/" class="widget-header__link-to "> Tazama Zote <i class="ri-arrow-right-s-line"></i>
+                    <a href="/" class="widget-header__link-to "> View all <i class="ri-arrow-right-s-line"></i>
                     </a>
                 </div>
             </div>

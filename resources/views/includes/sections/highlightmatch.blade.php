@@ -33,9 +33,9 @@
                     <div class="uk-column-1-2">
                         <!-- Away team logo -->
                         <p>
-                            <img src="{{ asset('img/teamlogos/alliance.png')}}" alt="team" />
+                            <img src="{{ asset('img/teamlogos/kagera.png')}}" alt="team" />
                         </p>
-                        <p>ALLIANCE FC</p>
+                        <p>KAGERA SUGAR FC</p>
                     </div>
                 </div>
             </div>
@@ -43,7 +43,7 @@
         <!-- Date Info -->
         <div class="uk-child-width-expand@s uk-text-center" uk-grid>
             <div class="uk-width-auto@m uk-align-center">
-                <p class="stadium-details"> 15/12/2023 <span class="boldfont">| Azam Complex, Chamazi</span> </p>
+                <p class="stadium-details"> 21/12/2023 <span class="boldfont">| Azam Complex, Chamazi</span> </p>
             </div>
         </div>
     </div>

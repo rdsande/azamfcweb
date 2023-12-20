@@ -43,7 +43,7 @@
         </div>
         <div>
             <div class="uk-card uk-card-default uk-card-body">
-                <img src="{{ asset('img/breadcrumbs/image2.png')}}" />
+                <img src="{{ asset('img/breadcrumbs/image3.png')}}" />
                 <h3> LED PERIMETER BOARDS</h3>
             </div>
         </div>
@@ -67,20 +67,20 @@
         </div>
         <div>
             <div class="uk-card uk-card-default uk-card-body">
-                <img src="{{ asset('img/gym.jpg')}}" />
+                <img src="{{ asset('img/breadcrumbs/image3.png')}}" />
                 <h3> GYM - STATE OF THE ART</h3>
             </div>
         </div>
         <div>
             <div class="uk-card uk-card-default uk-card-body">
-                <img src="{{ asset('img/swimming.jpg')}}" />
+                <img src="{{ asset('img/breadcrumbs/image3.png')}}" />
                 <h3> SWIMMING POOL</h3>
             </div>
         </div>
         <div>
             <div class="uk-card uk-card-default uk-card-body">
-                <img src="{{ asset('img/canteen.jpg')}}" />
-                <h3> AZAMFC CANTEEN & SHOP</h3>
+                <img src="{{ asset('img/breadcrumbs/image3.png')}}" />
+                <h3> AZAMFC SHOP</h3>
             </div>
         </div>
         <div>

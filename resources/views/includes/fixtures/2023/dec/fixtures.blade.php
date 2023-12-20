@@ -41,7 +41,7 @@
     <div class="uk-panel">
         <div class="inner-fixtures">
             <h3><img src="{{asset('img/league/nbc.png')}}" class="compt-logo"> NBC PREMIER LEAGUE </h3>
-            <p> TBA </p>
+            <p> 11/12/2023 </p>
             <p> AZAM COMPLEX, CHAMAZI</p>
             <div class="teams-inner-container">
                 <div class="team-disp-1">
@@ -80,20 +80,20 @@
     <div class="uk-panel">
         <div class="inner-fixtures">
             <h3><img src="{{asset('img/league/nbc.png')}}" class="compt-logo"> ASFC - ROUND 2 </h3>
-            <p> 15/12/2023 </p>
+            <p> 17/12/2023 </p>
             <p> AZAM COMPLEX, CHAMAZI</p>
             <div class="teams-inner-container">
                 <div class="team-disp-1">
                     <img src="{{ asset('img/logo.png')}}" class="logo-card-item" alt="Team Logo" />
                 </div>
-                <div class="team-disp-1">
+                <div class="team-disp-1 results-section">
                     <div class="scr-card">
                         <span class="hm-team-score">
-                            19
+                            2
                         </span>
                         :
                         <span class="hm-team-score">
-                            00
+                            1
                         </span>
 
                     </div>
@@ -120,7 +120,7 @@
     <div class="uk-panel">
         <div class="inner-fixtures">
             <h3><img src="{{asset('img/league/nbc.png')}}" class="compt-logo"> NBC PREMIER LEAGUE </h3>
-            <p> TBA </p>
+            <p> 21/12/2023 </p>
             <p> KAGERA</p>
             <div class="teams-inner-container">
                 <div class="team-disp-1">

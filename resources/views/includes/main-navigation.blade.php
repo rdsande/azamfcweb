@@ -66,10 +66,10 @@
 </li>
 <li><a href="{{ url('fixtures')}}">Match Center</a>
     <div class="uk-navbar-dropdown">
-        <ul class="uk-nav uk-navbar-dropdown-nav" id="match-center">
-            <li id="uk-tab-fixtures"><a href="{{ url('fixtures')}}">Fixtures</a></li>
-            <li id="uk-tab-results"><a href="{{ url('results')}}">Match Results</a></li>
-            <li id="uk-tab-tables"><a href="{{ url('tables')}}">Tables</a></li>
+        <ul class="uk-nav uk-navbar-dropdown-nav">
+            <li id="uk-tab-5-tabpanel-0-link"><a href="{{ url('fixtures')}}">Fixtures</a></li>
+            <li id="uk-tab-5-tabpanel-0-link"><a href="{{ url('fixtures')}}">Match Results</a></li>
+            <li id="uk-tab-5-tabpanel-1-link"><a href="{{ url('fixtures')}}">Tables</a></li>
         </ul>
     </div>
 </li>

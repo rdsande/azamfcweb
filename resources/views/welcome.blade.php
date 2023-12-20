@@ -14,8 +14,8 @@
         <div class="uk-container uk-container-medium">
 
             <!-- Fixtures Start -->
-            <div class="uk-grid-small uk-child-width-expand@s uk-text-center uk-grid-match uk-margin-medium" uk-grid uk-scrollspy="target: > div; cls: uk-animation-scale-up; delay: 200">
-                <!-- Match Card -- Last Match -->
+            <div class="uk-grid-small uk-child-width-expand@s uk-text-center uk-grid-match uk-margin-medium" uk-grid
+                uk-scrollspy="target: > div; cls: uk-animation-scale-up; delay: 200">
                 <div class="match-home-card bg-primary-two">
                     <div class="uk-card uk-card-default uk-card-body">
                         <div class="widget-header-wrapper ">
@@ -40,19 +40,22 @@
                                     </span>
                                 </div>
                                 <div class="home-team-item">
-                                    <img src="{{ asset('img/teamlogos/jkt.png')}}" class="logo-card-item" alt="Team Logo" />
-                                    <span class="team-name-card-item"> JKT Tanzania </span>
+                                    <img src="{{ asset('img/teamlogos/alliance.png')}}" class="logo-card-item"
+                                        alt="Team Logo" />
+                                    <span class="team-name-card-item"> Alliance FC </span>
                                 </div>
                             </div>
                             <div class="card-inner">
-                                <h4 class="comp-label"> NBC PREMIER LEAGUE </h4>
-                                <span class="date"> <i class="ri-time-line"></i> 11/12/2023 | Azam Complex,
+                                <h4 class="comp-label"> ASFC </h4>
+                                <span class="date"> <i class="ri-time-line"></i> 17/12/2023 | Azam Complex,
                                     Chamazi</span>
                             </div>
                         </div>
+
+
                     </div>
                 </div>
-                <!-- Match Card -- Next Match -->
+                <!-- Match Card -- Last Match -->
                 <div class="match-home-card">
                     <div class="uk-card uk-card-default uk-card-body">
                         <div class="widget-header-wrapper ">
@@ -70,20 +73,21 @@
                                 </div>
                                 <div class="game-score">
                                     <span class="result-item">
-                                        <h3>5</h3>
+                                        <h3>2</h3>
                                     </span>
                                     <span class="result-item">
-                                        <h3>0</h3>
+                                        <h3>1</h3>
                                     </span>
                                 </div>
                                 <div class="home-team-item">
-                                    <img src="{{ asset('img/teamlogos/kmc.png')}}" class="logo-card-item" alt="Team Logo" />
-                                    <span class="team-name-card-item"> KMC </span>
+                                    <img src="{{ asset('img/teamlogos/jkt.png')}}" class="logo-card-item"
+                                        alt="Team Logo" />
+                                    <span class="team-name-card-item"> JKT Tanzania </span>
                                 </div>
                             </div>
                             <div class="card-inner">
                                 <h4 class="comp-label"> NBC PREMIER LEAGUE </h4>
-                                <span class="date"> <i class="ri-time-line"></i> 7/12/2023 | Azam Complex,
+                                <span class="date"> <i class="ri-time-line"></i> 11/12/2023 | Azam Complex,
                                     Chamazi</span>
                             </div>
                         </div>
@@ -109,18 +113,19 @@
                                     <h3>19:00</h3>
                                 </div>
                                 <div class="home-team-item">
-                                    <img src="{{ asset('img/teamlogos/alliance.png')}}" class="logo-card-item" alt="Team Logo" />
-                                    <span class="team-name-card-item"> Alliance FC </span>
+                                    <img src="{{ asset('img/teamlogos/kagera.png')}}" class="logo-card-item"
+                                        alt="Team Logo" />
+                                    <span class="team-name-card-item"> Kagera Sugar </span>
                                 </div>
                             </div>
                             <div class="card-inner">
-                                <h4 class="comp-label"> ASFC </h4>
-                                <span class="date"> <i class="ri-time-line"></i> 15/12/2023 | Azam Complex,
+                                <h4 class="comp-label"> NBC PREMIER LEAGUE </h4>
+                                <span class="date"> <i class="ri-time-line"></i> 21/12/2023 | Azam Complex,
                                     Chamazi</span>
                             </div>
                         </div>
-                        
-                        
+
+
                     </div>
                 </div>
             </div>
@@ -137,7 +142,8 @@
                     </div>
 
                     <div class="widget-header-wrapper__content ">
-                        <a href="{{url('latestnews')}}" class="widget-header__link-to "> View all news <i class="ri-arrow-right-s-line"></i>
+                        <a href="{{url('latestnews')}}" class="widget-header__link-to "> View all news <i
+                                class="ri-arrow-right-s-line"></i>
                         </a>
                     </div>
                 </div>
@@ -204,7 +210,8 @@
                     </div>
 
                     <div class="widget-header-wrapper__content ">
-                        <a href="/" class="widget-header__link-to" uk-toggle="target: #my-id" type="button"> View all <i class="ri-arrow-right-s-line"></i>
+                        <a href="/" class="widget-header__link-to" uk-toggle="target: #my-id" type="button"> View all <i
+                                class="ri-arrow-right-s-line"></i>
                         </a>
                     </div>
                 </div>
@@ -264,7 +271,8 @@
                 </div>
 
                 <div class="widget-header-wrapper__content ">
-                    <a href="{{ url('latestnews')}}" class="widget-header__link-to "> View all <i class="ri-arrow-right-s-line"></i>
+                    <a href="{{ url('latestnews')}}" class="widget-header__link-to "> View all <i
+                            class="ri-arrow-right-s-line"></i>
                     </a>
                 </div>
             </div>
