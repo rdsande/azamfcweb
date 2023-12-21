@@ -52,6 +52,12 @@ h2.widget-header__title {
     padding-top: 6rem;
 }
 
+.fullwidth-nav-right {
+    left: initial !important;
+    width: initial !important;
+    overflow: hidden;
+}
+
 .post-metas .uk-first-column, .time-col {
     display: flex;
     width: 50%;

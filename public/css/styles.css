@@ -1809,6 +1809,23 @@ h1.page-title {
     font-size: 3.3rem;
 }
 
+.stadium-features h3 {
+    text-transform: uppercase;
+}
+
+.management-grid .uk-card-body::before {
+    content: '';
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: -17px;
+    display: block;
+    right: 0;
+    border-radius: 50%;
+    background: var(--alternative);
+    opacity: .2;
+}
+
 .page-brdc.z-back .uk-background-cover::after {
     background: rgba(0, 0, 0, 0.6);
 }

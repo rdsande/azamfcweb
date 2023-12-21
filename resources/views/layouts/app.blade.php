@@ -45,8 +45,7 @@
     <link rel="stylesheet" href="{{ asset('css/styles.css') }}">
     <link rel="stylesheet" href="{{ asset('css/responsive.css') }}">
     <link rel="stylesheet" href="{{ asset('css/animations.css') }}">
-    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
-
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.0.0/fonts/remixicon.css" rel="stylesheet" />
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -359,7 +358,8 @@
                                 <li><a href="/"> Terms & Conditions </a></li>
                             </ul>
                         </div>
-                        <span class="ftr-copy"> &copy; Azam Football Club, 2023 | Website & App by <a href="">Tekleo
+                        <span class="ftr-copy"> &copy; Azam Football Club, 2023 | Website & App by <a
+                                href="https://tekleodigital.co.tz" target="_blank">Tekleo
                                 Digital</a> <img src="https://flagcdn.com/16x12/tz.png" srcset="https://flagcdn.com/32x24/tz.png 2x,
     https://flagcdn.com/48x36/tz.png 3x" width="16" height="12" alt="Ukraine"> </span>
                     </div>
@@ -411,8 +411,10 @@
                                                     class="ri-facebook-circle-line"></i> </a></li>
                                         <li><a href="https://youtube.com/@azamfcofficial." target="_blank"> <i
                                                     class="ri-youtube-line"></i> </a></li>
-                                        <li><a href="https://tiktok.com/@azamfcofficial" target="_blank"> <i
+                                        <li><a href="https://tiktok.com/@azamfcofficial" target="_blank"><i
                                                     class="ri-tiktok-line"></i></a></li>
+                                        <li><a href="https://whatsapp.com/channel/0029Va8qaVnAu3aVWGTTd72a"
+                                                target="_blank"> <i class="ri-whatsapp-line"></i></a></li>
                                     </ul>
                                 </div>
                             </div>

@@ -1,5 +1,5 @@
 <div class="uk-section">
-    <div class="uk-container uk-container-small games-fixtures">
+    <div class="uk-container uk-container-medium games-fixtures">
         <!-- Monthly -->
         <div class="widget-header-wrapper">
             <div class="widget-header-wrapper__header">

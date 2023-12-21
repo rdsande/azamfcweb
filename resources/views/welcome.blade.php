@@ -28,27 +28,26 @@
                         <div class="card-tag">
                             <div class="card-inner-teams-results">
                                 <div class="home-team-item">
-                                    <img src="{{ asset('img/logo.png')}}" class="logo-card-item" alt="Team Logo" />
-                                    <span class="team-name-card-item"> Azam FC </span>
+                                    <img src="{{ asset('img/teamlogos/kagera.png')}}" class="logo-card-item"
+                                        alt="Team Logo" />
+                                    <span class="team-name-card-item"> Kagera Sugar FC </span>
                                 </div>
                                 <div class="game-score">
                                     <span class="result-item">
-                                        <h3>2</h3>
+                                        <h3>4</h3>
                                     </span>
                                     <span class="result-item">
-                                        <h3>1</h3>
+                                        <h3>0</h3>
                                     </span>
                                 </div>
                                 <div class="home-team-item">
-                                    <img src="{{ asset('img/teamlogos/alliance.png')}}" class="logo-card-item"
-                                        alt="Team Logo" />
-                                    <span class="team-name-card-item"> Alliance FC </span>
+                                    <img src="{{ asset('img/logo.png')}}" class="logo-card-item" alt="Team Logo" />
+                                    <span class="team-name-card-item"> Azam FC </span>
                                 </div>
                             </div>
                             <div class="card-inner">
-                                <h4 class="comp-label"> ASFC </h4>
-                                <span class="date"> <i class="ri-time-line"></i> 17/12/2023 | Azam Complex,
-                                    Chamazi</span>
+                                <h4 class="comp-label"> NBC PREMIER LEAGUE </h4>
+                                <span class="date"> <i class="ri-time-line"></i> 21/12/2023 | Kaitaba Stadium</span>
                             </div>
                         </div>
 
@@ -80,14 +79,14 @@
                                     </span>
                                 </div>
                                 <div class="home-team-item">
-                                    <img src="{{ asset('img/teamlogos/jkt.png')}}" class="logo-card-item"
+                                    <img src="{{ asset('img/teamlogos/alliance.png')}}" class="logo-card-item"
                                         alt="Team Logo" />
-                                    <span class="team-name-card-item"> JKT Tanzania </span>
+                                    <span class="team-name-card-item"> Alliance FC </span>
                                 </div>
                             </div>
                             <div class="card-inner">
-                                <h4 class="comp-label"> NBC PREMIER LEAGUE </h4>
-                                <span class="date"> <i class="ri-time-line"></i> 11/12/2023 | Azam Complex,
+                                <h4 class="comp-label"> ASFC </h4>
+                                <span class="date"> <i class="ri-time-line"></i> 17/12/2023 | Azam Complex,
                                     Chamazi</span>
                             </div>
                         </div>
@@ -106,22 +105,21 @@
                         <div class="card-tag">
                             <div class="card-inner-teams-results">
                                 <div class="home-team-item">
-                                    <img src="{{ asset('img/logo.png')}}" class="logo-card-item" alt="Team Logo" />
-                                    <span class="team-name-card-item"> Azam FC </span>
+                                    <img src="{{ asset('img/teamlogos/geita.png')}}" class="logo-card-item"
+                                        alt="Team Logo" />
+                                    <span class="team-name-card-item"> Geita Gold </span>
                                 </div>
                                 <div class="game-time">
-                                    <h3>19:00</h3>
+                                    <h3>16:00</h3>
                                 </div>
                                 <div class="home-team-item">
-                                    <img src="{{ asset('img/teamlogos/kagera.png')}}" class="logo-card-item"
-                                        alt="Team Logo" />
-                                    <span class="team-name-card-item"> Kagera Sugar </span>
+                                    <img src="{{ asset('img/logo.png')}}" class="logo-card-item" alt="Team Logo" />
+                                    <span class="team-name-card-item"> Azam FC </span>
                                 </div>
                             </div>
                             <div class="card-inner">
                                 <h4 class="comp-label"> NBC PREMIER LEAGUE </h4>
-                                <span class="date"> <i class="ri-time-line"></i> 21/12/2023 | Azam Complex,
-                                    Chamazi</span>
+                                <span class="date"> <i class="ri-time-line"></i> TBD | GEITA</span>
                             </div>
                         </div>
 

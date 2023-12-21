@@ -15,10 +15,10 @@
             <div class="uk-width-auto@m">
                 <div class="uk-card uk-card-default uk-card-body">
                     <div class="uk-column-1-2">
-                        <p>AZAM FC</p>
+                        <p>GEITA GOLD</p>
                         <!-- Home team logo -->
                         <p>
-                            <img src="{{ asset('img/logo.png')}}" alt="team" />
+                            <img src="{{ asset('img/teamlogos/geita.png')}}" alt="team" />
                         </p>
                     </div>
                 </div>
@@ -34,9 +34,9 @@
                     <div class="uk-column-1-2">
                         <!-- Away team logo -->
                         <p>
-                            <img src="{{ asset('img/teamlogos/kagera.png')}}" alt="team" />
+                            <img src="{{ asset('img/logo.png')}}" alt="team" />
                         </p>
-                        <p>KAGERA SUGAR FC</p>
+                        <p>AZAM FC</p>
                     </div>
                 </div>
             </div>
@@ -44,7 +44,7 @@
         <!-- Date Info -->
         <div class="uk-child-width-expand@s uk-text-center" uk-grid>
             <div class="uk-width-auto@m uk-align-center">
-                <p class="stadium-details"> 21/12/2023 <span class="boldfont">| Azam Complex, Chamazi</span> </p>
+                <p class="stadium-details"> TBD <span class="boldfont">| Geita</span> </p>
             </div>
         </div>
     </div>

@@ -38,7 +38,7 @@
         </div>
     </div>
     <!-- PL -->
-    <div class="uk-container uk-container-small games-tables" id="pl">
+    <div class="uk-container uk-container-medium games-tables" id="pl">
         <!-- <iframe frameborder="0" scrolling="yes" id="fs-70347"
                         src="https://www.fastscore.com/widgets/standings/27961/70347?ff=1&fs=12&lh=18&bg=FFFFFF&fc=212529&tfc=2E59A2&ifc=AFAFAF&lbc=DEE2E6&sbr=true&sci=true&sha=true&stl=true&slc=true&tlg=true&tlk=true&mp=true&mw=true&md=true&ml=true&gl=true&gd=true&f=true"
                         style="width: 100%"></iframe>

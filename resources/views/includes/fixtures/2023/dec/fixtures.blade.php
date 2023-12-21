@@ -33,8 +33,9 @@
                     KMC FC
                 </span>
             </div>
-<!--             <a href="{{ url('match')}}" class="match-btn"><button class="uk-button uk-button-primary">Match Details</button></a>
--->        </div>
+            <!--             <a href="{{ url('match')}}" class="match-btn"><button class="uk-button uk-button-primary">Match Details</button></a>
+-->
+        </div>
     </div>
 </li>
 <li>
@@ -72,8 +73,9 @@
                     JKT TANZANIA
                 </span>
             </div>
-<!--             <a href="{{ url('match')}}" class="match-btn"><button class="uk-button uk-button-primary">Match Details</button></a>
--->        </div>
+            <!--             <a href="{{ url('match')}}" class="match-btn"><button class="uk-button uk-button-primary">Match Details</button></a>
+-->
+        </div>
     </div>
 </li>
 <li>
@@ -111,8 +113,9 @@
                     ALLIANCE FC
                 </span>
             </div>
-<!--             <a href="{{ url('match')}}" class="match-btn"><button class="uk-button uk-button-primary">Match Details</button></a>
--->        </div>
+            <!--             <a href="{{ url('match')}}" class="match-btn"><button class="uk-button uk-button-primary">Match Details</button></a>
+-->
+        </div>
     </div>
 </li>
 
@@ -126,14 +129,14 @@
                 <div class="team-disp-1">
                     <img src="{{ asset('img/teamlogos/kagera.png')}}" class="logo-card-item" alt="Team Logo" />
                 </div>
-                <div class="team-disp-1">
+                <div class="team-disp-1 results-section">
                     <div class="scr-card">
                         <span class="hm-team-score">
-                            16
+                            4
                         </span>
                         :
                         <span class="hm-team-score">
-                            00
+                            0
                         </span>
 
                     </div>
@@ -151,8 +154,9 @@
                     AZAM FC
                 </span>
             </div>
-<!--             <a href="{{ url('match')}}" class="match-btn"><button class="uk-button uk-button-primary">Match Details</button></a>
--->        </div>
+            <!--             <a href="{{ url('match')}}" class="match-btn"><button class="uk-button uk-button-primary">Match Details</button></a>
+-->
+        </div>
     </div>
 </li>
 <li>
@@ -190,8 +194,9 @@
                     GEITA GOLD
                 </span>
             </div>
-<!--             <a href="{{ url('match')}}" class="match-btn"><button class="uk-button uk-button-primary">Match Details</button></a>
--->        </div>
+            <!--             <a href="{{ url('match')}}" class="match-btn"><button class="uk-button uk-button-primary">Match Details</button></a>
+-->
+        </div>
     </div>
 </li>
 <li>
@@ -229,7 +234,8 @@
                     AZAM FC
                 </span>
             </div>
-<!--             <a href="{{ url('match')}}" class="match-btn"><button class="uk-button uk-button-primary">Match Details</button></a>
--->        </div>
+            <!--             <a href="{{ url('match')}}" class="match-btn"><button class="uk-button uk-button-primary">Match Details</button></a>
+-->
+        </div>
     </div>
 </li>
