@@ -526,6 +526,34 @@ Route::get('post', function () {
     return view('/posts/viewpost');
 });
 
+//About 
+//Post - View
+Route::get('about', function () {
+    return view('/about');
+});
+
+Route::get('missionvision', function () {
+    return view('/about/missionvision');
+});
+
+Route::get('history', function () {
+    return view('/about/history');
+});
+
+Route::get('trophy', function () {
+    return view('/about/trophy');
+});
+
+Route::get('azamcomplex', function () {
+    return view('/about/azamcomplex');
+});
+
+Route::get('senior', function () {
+    return view('/about/senior');
+});
+
+
+
 //Temp POSTS
 //Post - View
 Route::get('post1', function () {

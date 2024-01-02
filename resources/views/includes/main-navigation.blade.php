@@ -80,11 +80,12 @@
     <div class="uk-navbar-dropdown">
         <ul class="uk-nav uk-navbar-dropdown-nav">
             <li class="uk-active"><a href="{{url('about')}}">About AZAM FC</a></li>
-            <li><a href="{{url('about')}}">Mission & Vision</a></li>
-            <li><a href="{{url('about')}}">Club History</a></li>
-            <li><a href="{{url('about')}}">Our Achievements</a></li>
+            <li><a href="{{url('missionvision')}}">Mission & Vision</a></li>
+            <li><a href="{{url('history')}}">Club History</a></li>
+            <li><a href="{{url('trophy')}}">Trophy Showcase</a></li>
             <!-- <li><a href="{{url('about')}}">Our Achievements</a></li> -->
-            <li><a href="{{url('about')}}">Azam Complex</a></li>
+            <li><a href="{{url('azamcomplex')}}">Azam Complex</a></li>
+            <li><a href="{{url('senior')}}">Senior Management</a></li>
         </ul>
     </div>
 </li>
