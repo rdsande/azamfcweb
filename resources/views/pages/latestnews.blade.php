@@ -10,7 +10,7 @@
 </div>
 
 <!-- Section begin -->
-<div class="uk-section pull-top-two whiteptn team-inner">
+<div class="uk-section pull-top-two whiteptn team-inner latestnews">
     <div class="uk-container uk-container-medium">
         <div class="home-posts team-section shadow-one">
 

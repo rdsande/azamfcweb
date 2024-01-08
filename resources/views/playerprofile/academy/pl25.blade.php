@@ -64,7 +64,7 @@
                         </div>
                         <div class="uk-width-expand@m">
                             <span class="title-sm-main">NATIONALITY <br /></span>
-                            <span class="title-sm-tp"><img src="https://flagcdn.com/16x12/tz.png" srcset="https://flagcdn.com/32x24/tz.png 2x, https://flagcdn.com/48x36/tz.png 3x" width="16" height="12" alt="TZ"> TANZANIA</span>
+                            <span class="title-sm-tp">  TANZANIA</span>
                         </div>
                     </div>
                 </div>

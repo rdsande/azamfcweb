@@ -41,7 +41,7 @@
     <noscript>
         <link rel="stylesheet" href="{{ asset('css/main.css') }}">
     </noscript>
-
+    <script src="{{ asset('js/main.js') }}"></script>
     <link rel="stylesheet" href="{{ asset('css/styles.css') }}">
     <link rel="stylesheet" href="{{ asset('css/responsive.css') }}">
     <link rel="stylesheet" href="{{ asset('css/animations.css') }}">
@@ -360,27 +360,11 @@
                         </div>
                         <span class="ftr-copy"> &copy; Azam Football Club, 2023 | Website & App by <a
                                 href="https://tekleodigital.co.tz" target="_blank">Tekleo
-                                Digital</a> <img src="https://flagcdn.com/16x12/tz.png" srcset="https://flagcdn.com/32x24/tz.png 2x,
-    https://flagcdn.com/48x36/tz.png 3x" width="16" height="12" alt="Ukraine"> </span>
+                                Digital</a></span>
                     </div>
                 </div>
                 <div>
                     <div class="uk-background-primary uk-padding uk-light">
-                        <!-- <div class="table-standings">
-                            <iframe frameborder="0" scrolling="yes" id="fs-62951"
-                                src="https://www.fastscore.com/widgets/standings/26134/62951?ff=1&fs=12&lh=18&bg=FFFFFF&fc=212529&tfc=2E59A2&ifc=AFAFAF&lbc=DEE2E6&sbr=true&sci=true&sha=true&stl=true&slc=true&tlg=true&tlk=false&mp=true&mw=true&md=true&ml=true&gl=true&gd=true&f=true"
-                                style="width: 100%"></iframe>
-                            <div style="text-align:right;font-size:0.9em;line-height:1.0em">Powered by <a
-                                    href="https://www.fastscore.com">FastScore.com</a><br><br></div>
-                            <script>
-                            let iframe = document.querySelector("#fs-62951");
-                            window.addEventListener("message", function(e) {
-                                let message = e.data;
-                                iframe.style.height = message.height + "px";
-                                iframe.style.width = message.width + "px";
-                            }, false);
-                            </script>
-                        </div> -->
                         <div class="footer-contact">
                             <div class="uk-grid-collapse uk-child-width-expand@s uk-text-center" uk-grid>
                                 <div>
@@ -425,7 +409,6 @@
         </div>
     </footer>
     <!-- Scripts -->
-    <script src="{{ asset('js/main.js') }}" defer></script>
     <script src="{{ asset('js/scripts.js') }}" defer></script>
     <script>
     const loaderEl = document.getElementsByClassName('afc-fullpage-loader')[0];
@@ -438,7 +421,7 @@
 
             setTimeout(() => {
                 loaderEl.parentNode.removeChild(loaderEl);
-            }, 2000)
+            }, 1000)
         }
     });
     </script>
@@ -462,50 +445,6 @@
         modalContent.style.display = 'none';
         modalContent.innerHTML = ''; // Clear iframe content
     });
-    </script>
-    <!-- <script>
-    let scrollpos = window.scrollY
-    const header = document.querySelector("#site-header")
-    const header_height = 100
-
-    const add_class_on_scroll = () => header.classList.add("fixed-header")
-    const remove_class_on_scroll = () => header.classList.remove("fixed-header")
-
-    window.addEventListener('scroll', function() {
-        scrollpos = window.scrollY;
-
-        if (scrollpos >= header_height) {
-            add_class_on_scroll()
-        } else {
-            remove_class_on_scroll()
-        }
-
-    })
-    </script> -->
-
-    <script>
-    // Function to detect if the user is on a mobile device
-    function isMobile() {
-        return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-    }
-
-    if (isMobile()) {
-        // Get the user's OS
-        var os;
-        if (/(Android)/i.test(navigator.userAgent)) {
-            os = "Android";
-        } else if (/(iPhone|iPad|iPod)/i.test(navigator.userAgent)) {
-            os = "iOS";
-        } else if (/(Windows Phone)/i.test(navigator.userAgent)) {
-            os = "Windows Phone";
-        } else {
-            os = "Other";
-        }
-
-        // Display the mobileDiv and set the OS text
-        document.getElementById("mobileDiv").style.display = "block";
-        document.getElementById("os").textContent = os;
-    }
     </script>
 </body>
 
