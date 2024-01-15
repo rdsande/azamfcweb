@@ -208,7 +208,7 @@
                     </div>
 
                     <div class="widget-header-wrapper__content ">
-                        <a href="/" class="widget-header__link-to" uk-toggle="target: #my-id" type="button"> View all <i
+                        <a href="https://shop.azamfc.co.tz" class="widget-header__link-to" type="button"> View all <i
                                 class="ri-arrow-right-s-line"></i>
                         </a>
                     </div>

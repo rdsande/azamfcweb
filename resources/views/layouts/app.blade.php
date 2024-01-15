@@ -152,7 +152,7 @@
                     <div class="nav-top-left" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 500">
 
                         <div uk-alert class="alert-type-one">
-                            <a href="http://localhost/afcshop/" uk-toggle="target: #my-id" type="button">
+                            <a href="https://shop.azamfc.co.tz" type="button">
                                 Get your AZAMFC new kits | &#128293; <span class="cta-btn-one"> BUY
                                 </span>
                                 <!-- <a class="uk-alert-close" uk-close></a> -->
