@@ -30,7 +30,7 @@
                     </div>
                 </div>
                 <div class="uk-grid-column-small uk-grid-row-large uk-child-width-1-3@s uk-text-center" uk-grid>
-                    @include('includes/academy13.goalkeepers')
+                    @include('includes/academy15.goalkeepers')
                 </div>
 
                 <!-- Defenders -->

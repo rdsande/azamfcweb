@@ -56,5 +56,19 @@
                 @include('includes/fixtures/2023/nov.fixtures')
             </ul>
         </div>
+        <!-- Monthly -->
+        <div class="widget-header-wrapper">
+            <div class="widget-header-wrapper__header">
+                <header class="widget-header  ">
+                    <h2 class="widget-header__title">DECEMBER 2023</h2>
+                </header>
+            </div>
+        </div>
+        <!-- Fixtures -->
+        <div>
+            <ul class="uk-grid-small uk-grid uk-child-width-1-3@s uk-text-center fxtures-list-divs">
+                @include('includes/fixtures/2023/dec.fixtures')
+            </ul>
+        </div>
     </div>
 </div>

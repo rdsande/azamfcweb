@@ -2169,8 +2169,10 @@ ul.uk-tab.sidebar {
 }
 
 .hist-cont img {
-    width: 30%;
+    width: 40%;
     height: 100%;
+    padding: 6px;
+    border-radius: 15px;
 }
 
 .hist-cont p {
@@ -2187,6 +2189,11 @@ ul.uk-tab.sidebar {
     font-size: 2rem !important;
 }
 
+.ftr-contact-details a {
+    background-color: transparent !important;
+    font-weight: 800;
+}
+
 ul.uk-switcher.uk-margin.sidemain {
     /* width: 80%; */
     margin: 0 !important;
@@ -2200,9 +2207,10 @@ h1.page-title {
     font-family: var(--alt-font);
     text-transform: uppercase;
     font-size: 1.2rem;
-    padding: 0.6rem;
-    justify-content: flex-start;
-    letter-spacing: 3px;
+    padding: 0.2rem;
+    justify-content: center;
+    letter-spacing: 2px;
+    text-align: center;
 }
 
 .about-vertical .uk-tab > .uk-active > a {
@@ -2733,4 +2741,8 @@ span.qtfooter {
     position: relative;
     overflow-x: clip;
     overflow-y: visible !important;
+}
+
+.games-tables table#table {
+    width: 100vw !important;
 }

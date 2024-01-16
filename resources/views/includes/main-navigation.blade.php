@@ -68,8 +68,8 @@
     <div class="uk-navbar-dropdown">
         <ul class="uk-nav uk-navbar-dropdown-nav">
             <li id="uk-tab-5-tabpanel-0-link"><a href="{{ url('fixtures')}}">Fixtures</a></li>
-            <li id="uk-tab-5-tabpanel-0-link"><a href="{{ url('fixtures')}}">Match Results</a></li>
-            <li id="uk-tab-5-tabpanel-1-link"><a href="{{ url('fixtures')}}">Tables</a></li>
+            <li id="uk-tab-5-tabpanel-0-link"><a href="{{ url('results')}}">Match Results</a></li>
+            <li id="uk-tab-5-tabpanel-1-link"><a href="{{ url('tables')}}">Tables</a></li>
         </ul>
     </div>
 </li>
@@ -82,10 +82,12 @@
             <li class="uk-active"><a href="{{url('about')}}">About AZAM FC</a></li>
             <li><a href="{{url('missionvision')}}">Mission & Vision</a></li>
             <li><a href="{{url('history')}}">Club History</a></li>
-            <li><a href="{{url('trophy')}}">Trophy Showcase</a></li>
+            <li><a href="{{url('trophy')}}">Club Achievements</a></li>
             <!-- <li><a href="{{url('about')}}">Our Achievements</a></li> -->
             <li><a href="{{url('azamcomplex')}}">Azam Complex</a></li>
             <li><a href="{{url('senior')}}">Senior Management</a></li>
+            <li><a href="{{url('board')}}">Azam FC Board</a></li>
+
         </ul>
     </div>
 </li>

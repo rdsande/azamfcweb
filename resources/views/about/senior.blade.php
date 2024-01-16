@@ -27,14 +27,16 @@
                                     id="uk-tab-5-tab-2" aria-controls="uk-tab-5-tabpanel-2" tabindex="-1">Club
                                     History</a></li>
                             <li role="presentation" class=""><a href="#" aria-selected="false" role="tab"
-                                    id="uk-tab-5-tab-3" aria-controls="uk-tab-5-tabpanel-3" tabindex="-1">Trophy
-                                    Showcase</a></li>
+                                    id="uk-tab-5-tab-3" aria-controls="uk-tab-5-tabpanel-3" tabindex="-1">Club Achievements</a></li>
                             <li role="presentation" class=""><a href="#" aria-selected="false" role="tab"
                                     id="uk-tab-5-tab-5" aria-controls="uk-tab-5-tabpanel-5" tabindex="-1">Azam
                                     Complex</a></li>
                             <li role="presentation" class="uk-active"><a href="#" aria-selected="false" role="tab"
                                     id="uk-tab-5-tab-6" aria-controls="uk-tab-5-tabpanel-6" tabindex="-1">Senior
                                     Management</a></li>
+                            <li role="presentation" class=""><a href="#" aria-selected="false" role="tab"
+                                    id="uk-tab-5-tab-7" aria-controls="uk-tab-5-tabpanel-7" tabindex="-1">Azam FC
+                                    Board</a></li>
                         </ul>
 
                         <ul class="uk-switcher uk-margin sidemain uk-margin-large-bottom"" role=" presentation">
@@ -224,7 +226,7 @@
                                 </div>
                             </li>
                             <li id="uk-tab-5-tabpanel-3" role="tabpanel" aria-labelledby="uk-tab-5-tab-3" class="">
-                                <!--Trophy Showcase -->
+                                <!--Achievements -->
                                 <div class="uk-grid-small uk-child-width-expand@s" uk-grid>
                                     <div class="uk-container uk-container-medium uk-width-1-1">
                                         <div class="uk-padding">
@@ -300,6 +302,19 @@
                                         </div>
                                         <div class="uk-padding inner-afc-cont">
                                             @include('includes/about.seniormanagement')
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li id="uk-tab-5-tabpanel-7" role="tabpanel" aria-labelledby="uk-tab-5-tab-5" class="">
+                                <!-- Player stats -->
+                                <div class="uk-grid-small uk-child-width-expand@s" uk-grid>
+                                    <div class="uk-container uk-container-medium">
+                                        <div class="uk-padding">
+                                            <h1 class="headings-normal"> AZAM FC BOARD </h1>
+                                        </div>
+                                        <div class="uk-padding inner-afc-cont">
+                                            @include('includes/about.board')
                                         </div>
                                     </div>
                                 </div>

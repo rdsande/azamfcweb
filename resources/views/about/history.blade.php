@@ -27,8 +27,8 @@
                                     id="uk-tab-5-tab-2" aria-controls="uk-tab-5-tabpanel-2" tabindex="-1">Club
                                     History</a></li>
                             <li role="presentation" class=""><a href="#" aria-selected="false" role="tab"
-                                    id="uk-tab-5-tab-3" aria-controls="uk-tab-5-tabpanel-3" tabindex="-1">Trophy
-                                    Showcase</a></li>
+                                    id="uk-tab-5-tab-3" aria-controls="uk-tab-5-tabpanel-3" tabindex="-1">Club
+                                    Achievements</a></li>
                             <li role="presentation" class=""><a href="#" aria-selected="false" role="tab"
                                     id="uk-tab-5-tab-5" aria-controls="uk-tab-5-tabpanel-5" tabindex="-1">Azam
                                     Complex</a></li>

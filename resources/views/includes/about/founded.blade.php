@@ -42,7 +42,7 @@
                         Jangama 'Cantona', Abdulkarim Amin 'Popat', Hassan Jeba, Said Nachikongo, Mussa Juma, Faraj
                         Ismail, Mazaila Athuman and James Adriano Kilongola.
                     </p>
-                    <img src="{{ asset('img/logo.png')}}" />
+                    <img src="{{ asset('img/hist/hist1.jpg')}}" />
                 </div>
             </div>
         </div>
@@ -55,6 +55,8 @@
             </div>
             <div class="tl-body">
                 <div class="hist-cont">
+                    <img src="{{ asset('img/hist/hist2.jpg')}}" />
+
                     <p>
                         After only playing friendly matches, in 2005, Mzizima FC participated in official league after
                         joining division four. This was the lowest official league in Tanzanian football pyramid, and
@@ -62,6 +64,8 @@
                         Salaam, Mzizima FC joined the Ilala District League under Ilala District Football Association,
                         which was played in May, from 1st to 28th, at Benjamin Mkapa Secondary School ground, Ilala, Dar
                         es Salaam.<br /><br />
+
+                        <!-- <img src="{{ asset('img/hist/hist3.jpg')}}" /> -->
 
                         Mzizima FC made it to the final and saw off Ndanda FC of Misheni Kota, Kariakoo Dar es Salaam by
                         2–1, with the brace from Mussa Lumbi in front of Honourable Mussa Hassan Mussa, the Ilala Member
@@ -73,7 +77,6 @@
                         The win meant Mzizima FC was automatically promoted to Dar es Salaam regional league (division
                         three) for the 2006 season.
                     </p>
-                    <img src="{{ asset('img/logo.png')}}" />
                 </div>
             </div>
         </div>
@@ -106,7 +109,7 @@
                         On 28/10/2005, the newly formed team adopted the new name, Azam Sports Club, because Azam is the
                         flagship name for the SSB group of companies.
                     </p>
-                    <img src="{{ asset('img/logo.png')}}" />
+                    <img src="{{ asset('img/hist/hist3.jpg')}}" />
                 </div>
             </div>
         </div>
@@ -119,6 +122,8 @@
             </div>
             <div class="tl-body">
                 <div class="hist-cont">
+
+                    <img src="{{ asset('img/hist/hist4.jpg')}}" />
                     <p>
                         After winning the Ilala District Championship (division four) in 2005, Azam SC was automatically
                         promoted to the Dar es Salaam regional league (division three). But the regional league proved
@@ -140,7 +145,7 @@
                         These were the players who had vast experience of local and international football and improved
                         the team.
                     </p>
-                    <img src="{{ asset('img/logo.png')}}" />
+
                 </div>
             </div>
         </div>
@@ -195,7 +200,7 @@
                         Since promotion, Azam FC have managed to finish in top three in all seasons, except 2008/09
                         [eighth] and 2016/17 [fourth].
                     </p>
-                    <img src="{{ asset('img/logo.png')}}" />
+                    <img src="{{ asset('img/hist/hist10.jpg')}}" />
                 </div>
             </div>
         </div>

@@ -56,82 +56,9 @@
 
     @stack('scripts')
 
-    <!-- Loader -->
-    <style>
-    .afc-fullpage-loader {
-        position: fixed;
-        top: 0;
-        left: 0;
-        height: 100vh;
-        width: 100vw;
-        overflow: hidden;
-        background: #fff;
-        z-index: 9999;
-        opacity: 1;
-        transition: opacity 0.5s;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-
-    .afc-fullpage-loader .afc-fullpage-loader__logo {
-        position: relative;
-    }
-
-    .afc-fullpage-loader .afc-fullpage-loader__logo:after {
-        content: "";
-        height: 100%;
-        width: 100%;
-        position: absolute;
-        top: 0;
-        left: 0;
-        -webkit-animation: shine 2.5s infinite cubic-bezier(0.42, 0, 0.58, 1);
-        animation: shine 2.5s infinite cubic-bezier(0.42, 0, 0.58, 1);
-        background: rgba(255, 255, 255, 0.8);
-        /* FF3.6-15 */
-        /* Chrome10-25,Safari5.1-6 */
-        background: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, white 50%, rgba(255, 255, 255, 0) 100%);
-        /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#00ffffff", endColorstr="#00ffffff", GradientType=1);
-        /* IE6-9 */
-    }
-
-    @-webkit-keyframes shine {
-        0% {
-            transform: translateX(-100%) skew(-30deg);
-        }
-
-        100% {
-            transform: translateX(200%) skew(-30deg);
-        }
-    }
-
-    @keyframes shine {
-        0% {
-            transform: translateX(-100%) skew(-30deg);
-        }
-
-        100% {
-            transform: translateX(200%) skew(-30deg);
-        }
-    }
-
-    .afc-fullpage-loader--invisible {
-        opacity: 0;
-    }
-    </style>
-
 </head>
 
 <body>
-    <!-- Loader Start -->
-    <div class="afc-fullpage-loader">
-        <div class="afc-fullpage-loader__logo">
-            <img src="{{asset('img/logo.png')}}" alt="loading" />
-        </div>
-    </div>
-    <!-- Loader End -->
-
     <!-- Mobile phone alert to install app -->
     <div class="app-inst-alert">
         <div class="uk-alert-primary" uk-alert>
@@ -358,9 +285,7 @@
                                 <li><a href="/"> Terms & Conditions </a></li>
                             </ul>
                         </div>
-                        <span class="ftr-copy"> &copy; Azam Football Club, 2023 | Website & App by <a
-                                href="https://tekleodigital.co.tz" target="_blank">Tekleo
-                                Digital</a></span>
+                        <span class="ftr-copy"> &copy; Azam Football Club, 2023 </span>
                     </div>
                 </div>
                 <div>
@@ -380,6 +305,10 @@
                                         <ul class="uk-list">
                                             <li> Azam Chamazi Complex, </li>
                                             <li> P.O BOX 2517, Dar es salaam </li>
+                                            <li> <i class="ri-phone-line"></i> <a href="tel:+255717088880">+255 717 088
+                                                    880</a> </li>
+                                            <li> <i class="ri-mail-line"></i> <a
+                                                    href="mailto:info@azamfc.co.tz">info@azamfc.co.tz</a> </li>
                                         </ul>
                                     </div>
                                 </div>
@@ -410,42 +339,6 @@
     </footer>
     <!-- Scripts -->
     <script src="{{ asset('js/scripts.js') }}" defer></script>
-    <script>
-    const loaderEl = document.getElementsByClassName('afc-fullpage-loader')[0];
-    document.addEventListener('readystatechange', (event) => {
-        // const readyState = "interactive";
-        const readyState = "complete";
-
-        if (document.readyState == readyState) {
-            loaderEl.classList.add('afc-fullpage-loader--invisible');
-
-            setTimeout(() => {
-                loaderEl.parentNode.removeChild(loaderEl);
-            }, 1000)
-        }
-    });
-    </script>
-    <script>
-    //AZAMFC TV
-    const modalTriggers = document.querySelectorAll('.modal-trigger');
-    const modalOverlay = document.querySelector('.modal-overlay');
-    const modalContent = document.querySelector('.modal-content');
-
-    modalTriggers.forEach(trigger => {
-        trigger.addEventListener('click', () => {
-            const iframeSrc = trigger.getAttribute('data-src');
-            modalContent.innerHTML = `<iframe class="modal-iframe" src="${iframeSrc}"></iframe>`;
-            modalOverlay.style.display = 'block';
-            modalContent.style.display = 'block';
-        });
-    });
-
-    modalOverlay.addEventListener('click', () => {
-        modalOverlay.style.display = 'none';
-        modalContent.style.display = 'none';
-        modalContent.innerHTML = ''; // Clear iframe content
-    });
-    </script>
 </body>
 
 </html>

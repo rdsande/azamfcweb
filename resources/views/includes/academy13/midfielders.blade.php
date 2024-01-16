@@ -1,22 +1,22 @@
 <li>
-    <a href="{{url('player-academy12')}}">
+    <a href="{{url('#')}}">
         <div>
             <div class="uk-card uk-card-default uk-card-body">
                 <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
                     <span class="bgtop"></span>
                     <img class="uk-transition-scale-up uk-transition-opaque"
-                        src="{{ asset('/img/players/profiles/u20/player5.png')}}" width="1800" height="1200" alt="">
+                        src="{{ asset('/img/players/profiles/default2.png')}}" width="1800" height="1200" alt="">
                 </div>
                 <div class="player-card-details">
                     <div class="uk-child-width-expand@s uk-text-center" uk-grid>
                         <div>
-                            <span class="uk-heading-divider">ABDULKARIM KASSIM <span class="secondname"> KISWANYA
+                            <span class="uk-heading-divider">RIDHIWANI ATHUMANI <span class="secondname"> GAFUNGA
                                 </span></span>
                             <span class="pos-player"> Midfielder </span>
                         </div>
                         <div>
                             <span class="plyr-number">
-                                51
+                                7
                             </span>
                         </div>
                     </div>
@@ -26,24 +26,24 @@
     </a>
 </li>
 <li>
-    <a href="{{url('player-academy13')}}">
+    <a href="{{url('#')}}">
         <div>
             <div class="uk-card uk-card-default uk-card-body">
                 <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
                     <span class="bgtop"></span>
                     <img class="uk-transition-scale-up uk-transition-opaque"
-                        src="{{ asset('/img/players/profiles/u20/player6.png')}}" width="1800" height="1200" alt="">
+                        src="{{ asset('/img/players/profiles/default2.png')}}" width="1800" height="1200" alt="">
                 </div>
                 <div class="player-card-details">
                     <div class="uk-child-width-expand@s uk-text-center" uk-grid>
                         <div>
-                            <span class="uk-heading-divider">ALLY MOHAMMED <span class="secondname"> SALUM
+                            <span class="uk-heading-divider">ARAFAT JUMA <span class="secondname"> OMAR
                                 </span></span>
                             <span class="pos-player"> Midfielder</span>
                         </div>
                         <div>
                             <span class="plyr-number">
-                                53
+                                23
                             </span>
                         </div>
                     </div>
@@ -53,24 +53,24 @@
     </a>
 </li>
 <li>
-    <a href="{{url('player-academy14')}}">
+    <a href="{{url('#')}}">
         <div>
             <div class="uk-card uk-card-default uk-card-body">
                 <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
                     <span class="bgtop"></span>
                     <img class="uk-transition-scale-up uk-transition-opaque"
-                        src="{{ asset('/img/players/profiles/u20/player7.png')}}" width="1800" height="1200" alt="">
+                        src="{{ asset('/img/players/profiles/default2.png')}}" width="1800" height="1200" alt="">
                 </div>
                 <div class="player-card-details">
                     <div class="uk-child-width-expand@s uk-text-center" uk-grid>
                         <div>
-                            <span class="uk-heading-divider"> KASSIM SULEIMAN <span class="secondname">MIKIDADI
+                            <span class="uk-heading-divider"> ALEX MATHIASI <span class="secondname">NDEJA
                                 </span></span>
                             <span class="pos-player"> Midfielder </span>
                         </div>
                         <div>
                             <span class="plyr-number">
-                                44
+                                2
                             </span>
                         </div>
                     </div>
@@ -81,24 +81,24 @@
 </li>
 <!-- Player -->
 <li>
-    <a href="{{url('player-academy15')}}">
+    <a href="{{url('#')}}">
         <div>
             <div class="uk-card uk-card-default uk-card-body">
                 <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
                     <span class="bgtop"></span>
                     <img class="uk-transition-scale-up uk-transition-opaque"
-                        src="{{ asset('/img/players/profiles/u20/player8.png')}}" width="1800" height="1200" alt="">
+                        src="{{ asset('/img/players/profiles/default2.png')}}" width="1800" height="1200" alt="">
                 </div>
                 <div class="player-card-details">
                     <div class="uk-child-width-expand@s uk-text-center" uk-grid>
                         <div>
-                            <span class="uk-heading-divider">AMOS NADA <span class="secondname"> HAULE
+                            <span class="uk-heading-divider">SAID ALHAJI <span class="secondname"> RAJABU
                                 </span></span>
                             <span class="pos-player"> Midfielder </span>
                         </div>
                         <div>
                             <span class="plyr-number">
-                                60
+                                15
                             </span>
                         </div>
                     </div>
@@ -109,18 +109,18 @@
 </li>
 <!-- Player -->
 <li>
-    <a href="{{url('player-academy16')}}">
+    <a href="{{url('#')}}">
         <div>
             <div class="uk-card uk-card-default uk-card-body">
                 <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
                     <span class="bgtop"></span>
                     <img class="uk-transition-scale-up uk-transition-opaque"
-                        src="{{ asset('/img/players/profiles/u20/player9.png')}}" width="1800" height="1200" alt="">
+                        src="{{ asset('/img/players/profiles/default2.png')}}" width="1800" height="1200" alt="">
                 </div>
                 <div class="player-card-details">
                     <div class="uk-child-width-expand@s uk-text-center" uk-grid>
                         <div>
-                            <span class="uk-heading-divider">GABY JOSEPH <span class="secondname"> FUNDUMO
+                            <span class="uk-heading-divider">ABDALLAH SALUM <span class="secondname"> MAPANDE
                                 </span></span>
                             <span class="pos-player"> Midfielder </span>
                         </div>
@@ -136,24 +136,159 @@
     </a>
 </li>
 <li>
-    <a href="{{url('player-academy17')}}">
+    <a href="{{url('#')}}">
         <div>
             <div class="uk-card uk-card-default uk-card-body">
                 <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
                     <span class="bgtop"></span>
                     <img class="uk-transition-scale-up uk-transition-opaque"
-                        src="{{ asset('/img/players/profiles/u20/player20.png')}}" width="1800" height="1200" alt="">
+                        src="{{ asset('/img/players/profiles/default2.png')}}" width="1800" height="1200" alt="">
                 </div>
                 <div class="player-card-details">
                     <div class="uk-child-width-expand@s uk-text-center" uk-grid>
                         <div>
-                            <span class="uk-heading-divider">DAVID CRISPIN <span class="secondname"> CHIWALANGA
+                            <span class="uk-heading-divider">IMRAN SOUD <span class="secondname"> ABDALLAH
                                 </span></span>
                             <span class="pos-player"> Midfielder </span>
                         </div>
                         <div>
                             <span class="plyr-number">
                                 52
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</li>
+<li>
+    <a href="{{url('#')}}">
+        <div>
+            <div class="uk-card uk-card-default uk-card-body">
+                <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
+                    <span class="bgtop"></span>
+                    <img class="uk-transition-scale-up uk-transition-opaque"
+                        src="{{ asset('/img/players/profiles/default2.png')}}" width="1800" height="1200" alt="">
+                </div>
+                <div class="player-card-details">
+                    <div class="uk-child-width-expand@s uk-text-center" uk-grid>
+                        <div>
+                            <span class="uk-heading-divider">SAMEER SAID<span class="secondname"> MSELEM
+                                </span></span>
+                            <span class="pos-player"> Midfielder </span>
+                        </div>
+                        <div>
+                            <span class="plyr-number">
+                                52
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</li>
+<li>
+    <a href="{{url('#')}}">
+        <div>
+            <div class="uk-card uk-card-default uk-card-body">
+                <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
+                    <span class="bgtop"></span>
+                    <img class="uk-transition-scale-up uk-transition-opaque"
+                        src="{{ asset('/img/players/profiles/default2.png')}}" width="1800" height="1200" alt="">
+                </div>
+                <div class="player-card-details">
+                    <div class="uk-child-width-expand@s uk-text-center" uk-grid>
+                        <div>
+                            <span class="uk-heading-divider">EMMANUEL ZACHARIA <span class="secondname"> MWINYI
+                                </span></span>
+                            <span class="pos-player"> Midfielder </span>
+                        </div>
+                        <div>
+                            <span class="plyr-number">
+                                22
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</li>
+<li>
+    <a href="{{url('#')}}">
+        <div>
+            <div class="uk-card uk-card-default uk-card-body">
+                <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
+                    <span class="bgtop"></span>
+                    <img class="uk-transition-scale-up uk-transition-opaque"
+                        src="{{ asset('/img/players/profiles/default2.png')}}" width="1800" height="1200" alt="">
+                </div>
+                <div class="player-card-details">
+                    <div class="uk-child-width-expand@s uk-text-center" uk-grid>
+                        <div>
+                            <span class="uk-heading-divider">MSABAHA SALEHE <span class="secondname"> ALLY
+                                </span></span>
+                            <span class="pos-player"> Midfielder </span>
+                        </div>
+                        <div>
+                            <span class="plyr-number">
+                                10
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</li>
+<li>
+    <a href="{{url('#')}}">
+        <div>
+            <div class="uk-card uk-card-default uk-card-body">
+                <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
+                    <span class="bgtop"></span>
+                    <img class="uk-transition-scale-up uk-transition-opaque"
+                        src="{{ asset('/img/players/profiles/default2.png')}}" width="1800" height="1200" alt="">
+                </div>
+                <div class="player-card-details">
+                    <div class="uk-child-width-expand@s uk-text-center" uk-grid>
+                        <div>
+                            <span class="uk-heading-divider">LUSAJI ABBAS <span class="secondname"> APEX
+                                </span></span>
+                            <span class="pos-player"> Midfielder </span>
+                        </div>
+                        <div>
+                            <span class="plyr-number">
+                                16
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</li>
+<li>
+    <a href="{{url('#')}}">
+        <div>
+            <div class="uk-card uk-card-default uk-card-body">
+                <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
+                    <span class="bgtop"></span>
+                    <img class="uk-transition-scale-up uk-transition-opaque"
+                        src="{{ asset('/img/players/profiles/default2.png')}}" width="1800" height="1200" alt="">
+                </div>
+                <div class="player-card-details">
+                    <div class="uk-child-width-expand@s uk-text-center" uk-grid>
+                        <div>
+                            <span class="uk-heading-divider">ELMAN SIXBERT <span class="secondname"> OLOMELA
+                                </span></span>
+                            <span class="pos-player"> Midfielder </span>
+                        </div>
+                        <div>
+                            <span class="plyr-number">
+                                17
                             </span>
                         </div>
                     </div>

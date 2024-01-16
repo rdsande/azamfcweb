@@ -552,6 +552,14 @@ Route::get('senior', function () {
     return view('/about/senior');
 });
 
+Route::get('board', function () {
+    return view('/about/board');
+});
+
+Route::get('contact', function () {
+    return view('/pages/contact');
+});
+
 
 
 //Temp POSTS

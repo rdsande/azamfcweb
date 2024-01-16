@@ -49,7 +49,7 @@
         </div>
         <div>
             <div class="uk-card uk-card-default uk-card-body">
-                <img src="{{ asset('img/noimage.png')}}" />
+                <img src="{{ asset('img/vip.jpeg')}}" />
                 <h3> VVIP & VIP Lounge </h3>
             </div>
         </div>
@@ -61,7 +61,7 @@
         </div>
         <div>
             <div class="uk-card uk-card-default uk-card-body">
-                <img src="{{ asset('img/noimage.png')}}" />
+                <img src="{{ asset('img/pitch.jpeg')}}" />
                 <h3> TRAINING PITCHES (2)</h3>
             </div>
         </div>

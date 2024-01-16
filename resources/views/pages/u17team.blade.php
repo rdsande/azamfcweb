@@ -30,7 +30,7 @@
                     </div>
                 </div>
                 <div class="uk-grid-column-small uk-grid-row-large uk-child-width-1-3@s uk-text-center" uk-grid>
-                    @include('includes/academy13.goalkeepers')
+                    @include('includes/academy17.goalkeepers')
                 </div>
 
                 <!-- Defenders -->
@@ -43,7 +43,7 @@
                     </div>
                 </div>
                 <div class="uk-grid-column-small uk-grid-row-large uk-child-width-1-4@s uk-text-center" uk-grid>
-                    @include('includes/academy13.defenders')
+                    @include('includes/academy17.defenders')
                 </div>
 
                 <!-- Midfielders -->
@@ -56,7 +56,7 @@
                     </div>
                 </div>
                 <div class="uk-grid-column-small uk-grid-row-large uk-child-width-1-4@s uk-text-center" uk-grid>
-                    @include('includes/academy13.midfielders')
+                    @include('includes/academy17.midfielders')
                 </div>
 
                 <!-- Forwards -->
@@ -69,7 +69,7 @@
                     </div>
                 </div>
                 <div class="uk-grid-column-small uk-grid-row-large uk-child-width-1-4@s uk-text-center" uk-grid>
-                    @include('includes/academy13.forwards')
+                    @include('includes/academy17.forwards')
                 </div>
             </div>
         </div>
