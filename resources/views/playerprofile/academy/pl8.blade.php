@@ -295,7 +295,7 @@
                         <div class="uk-grid-small uk-child-width-expand@s uk-text-center" uk-grid>
                             <div uk-lightbox>
                                 <a class="uk-button uk-button-default" href="https://youtu.be/sLdcLpY74Uk"
-                                    data-caption="ALLY HASSANI ALLY">Play Video Reel</a>
+                                    data-caption="ALLY HASSANI ALLY">    Play Video Reel</a>
                             </div>
                         </div>
                     </div>

@@ -293,7 +293,7 @@
                         <div class="uk-grid-small uk-child-width-expand@s uk-text-center" uk-grid>
                             <div uk-lightbox>
                                 <a class="uk-button uk-button-default" target="_blank" href="https://www.youtube.com/@azamfcofficial./videos"
-                                    data-caption="YouTube">Play Video Reel</a>
+                                    data-caption="YouTube"> <i class="ri-play-circle-fill"></i> Play Video Reel</a>
                             </div>
                         </div>
                     </div>

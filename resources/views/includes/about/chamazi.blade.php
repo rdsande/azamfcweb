@@ -49,13 +49,13 @@
         </div>
         <div>
             <div class="uk-card uk-card-default uk-card-body">
-                <img src="{{ asset('img/vip.jpeg')}}" />
+                <img src="{{ asset('img/noimage.png')}}" />
                 <h3> VVIP & VIP Lounge </h3>
             </div>
         </div>
         <div>
             <div class="uk-card uk-card-default uk-card-body">
-                <img src="{{ asset('img/noimage.png')}}" />
+                <img src="{{ asset('img/vip.jpeg')}}" />
                 <h3> HOME & AWAY CHANGING ROOMS (4)</h3>
             </div>
         </div>
@@ -79,13 +79,13 @@
         </div>
         <div>
             <div class="uk-card uk-card-default uk-card-body">
-                <img src="{{ asset('img/noimage.png')}}" />
+                <img src="{{ asset('img/latest/ashop.jpeg')}}" />
                 <h3> AZAMFC SHOP</h3>
             </div>
         </div>
         <div>
             <div class="uk-card uk-card-default uk-card-body">
-                <img src="{{ asset('img/noimage.png')}}" />
+                <img src="{{ asset('img/latest/icecream.jpeg')}}" />
                 <h3> ICE CREAM & KIDS PLAY AREA</h3>
             </div>
         </div>

@@ -282,7 +282,7 @@
                         <h3> <i class="ri-clapperboard-line"></i> VIDEO SHOWREEL</h3>
                         <div class="uk-grid-small uk-child-width-expand@s uk-text-center" uk-grid>
                             <div uk-lightbox>
-                                <a class="uk-button uk-button-default" href="https://youtu.be/zl1KlDd0X2g" data-caption="YouTube">Play Video Reel</a>
+                                <a class="uk-button uk-button-default" href="https://www.youtube.com/@azamfootballyouthdevelopme5884" data-caption="YouTube"> <i class="ri-play-circle-fill"></i> Play Video Reel</a>
                             </div>
                         </div>
                     </div>

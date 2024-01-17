@@ -2140,6 +2140,12 @@ span.result-item {
     margin: auto;
 }
 
+.whiteptn.ptn4 a.uk-button.uk-button-default {
+    background: red;
+    color: white;
+    font-size: 2rem;
+}
+
 /* .about-vertical {
     display: flex;
     overflow: hidden;
