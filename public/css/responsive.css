@@ -309,6 +309,10 @@ h1.headings-normal {
     padding-top: 2rem;
 }
 
+.mgment {
+    height: 179px;
+}
+
 ul.uk-navbar-nav.plyrposition {
     flex-wrap: wrap;
 }
