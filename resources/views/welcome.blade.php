@@ -170,9 +170,9 @@
                                 Team</button>
                             <div uk-dropdown>
                                 <ul class="uk-nav uk-dropdown-nav">
-                                    <li><a href="#"> U13 - ACADEMY </a></li>
-                                    <li><a href="#"> U15 - ACADEMY </a></li>
-                                    <li><a href="#"> U17 - ACADEMY </a></li>
+                                    <li><a href="{{ url('u13team')}}"> U13 - ACADEMY </a></li>
+                                    <li><a href="{{ url('u15team')}}"> U15 - ACADEMY </a></li>
+                                    <li><a href="{{ url('u17team')}}"> U17 - ACADEMY </a></li>
                                     <li><a href="{{url('u20team')}}"> U20 - ACADEMY </a></li>
                                 </ul>
                             </div>
