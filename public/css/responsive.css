@@ -268,8 +268,56 @@ span.primarysort {
 
 .player-details-info h3 {
     margin-top: -17rem;
-    font-size: 3rem;
+    font-size: 2.6rem;
     text-align: center;
+}
+
+h2.widget-header__title {
+    padding: 0;
+    margin: 0;
+}
+
+.team-inner .uk-padding.uk-first-column {
+    padding: 0;
+}
+
+.uk-column-1-2 {
+    column-count: 1;
+}
+
+.hist-cont img {
+    width: 100%;
+}
+
+.hist-cont p {
+    width: 100%;
+}
+
+.hist-cont {
+    flex-flow: column;
+}
+.player-pos {
+    bottom: 4rem;
+}
+
+.about-vertical li a {
+    font-size: 1rem;
+    padding: 0.1rem;
+}
+
+h1.headings-normal {
+    padding-top: 2rem;
+}
+
+ul.uk-navbar-nav.plyrposition {
+    flex-wrap: wrap;
+}
+
+.posspan {
+    position: absolute;
+    transform: rotate(-0.25turn);
+    right: -1rem;
+    bottom: 10rem;
 }
 
 .player-details-info {

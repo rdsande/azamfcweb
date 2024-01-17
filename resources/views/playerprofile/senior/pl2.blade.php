@@ -158,6 +158,9 @@
                     <div class="uk-grid-small uk-child-width-expand@s uk-text-center" uk-grid>
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
+                            <div class="grid">
+                                <p> <strong>*</strong> Note: This is illustrative data, real data will be updated soon. Thanks </p>
+                            </div>
                                 <div class="uk-child-width-expand@s uk-text-center stats-inner" uk-grid>
                                     <div>
                                         <div class="uk-card uk-card-default uk-card-body">

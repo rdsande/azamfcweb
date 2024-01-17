@@ -13,7 +13,7 @@
         content="Welcome to the official website of AZAM FC, a renowned football club in Tanzania competing in the prestigious Tanzania Premier League. Stay updated with the latest news, match schedules, player profiles, and exclusive content related to AZAM FC's journey towards sporting excellence and success on the national and international stages.">
     <meta name="keywords"
         content="AZAM FC, Azam Football Club, Azam Football Club Academy, AZAMFC, AZAMFC Academy, Tanzania Premier League, Tanzanian Football, Soccer, Football Club, Sports, Matches, Players, Team, News, Updates, Official Website, Championships, Tournaments, Success, Excellence, Sporting Events, Football Community, Tanzania Football, East African Football.">
-    <meta name="author" content="Tekleo Digital">
+    <meta name="author" content="Rodgers Sande - Tekleo Digital, Tanzania">
     <!-- Open Graph / Facebook -->
     <meta property="og:title" content="Azam Football Club">
     <meta property="og:description"
@@ -279,13 +279,13 @@
                     <div class="uk-bg-highlight uk-padding">
                         <div>
                             <ul class="uk-list uk-list-hyphen">
-                                <li><a href="/"> Contact us </a></li>
-                                <li><a href="/"> Privacy </a></li>
-                                <li><a href="/"> Cookies </a></li>
-                                <li><a href="/"> Terms & Conditions </a></li>
+                                <li><a href="{{ url ('about')}}"> About AZAM FC </a></li>
+                                <li><a href="{{ url ('contact')}}"> Contact us </a></li>
+                                <li><a href="{{ url ('privacy')}}"> Privacy & Cookies </a></li>
+                                <li><a href="{{ url ('terms')}}"> Terms & Conditions </a></li>
                             </ul>
                         </div>
-                        <span class="ftr-copy"> &copy; Azam Football Club, 2023 </span>
+                        <span class="ftr-copy"> &copy; Azam Football Club, 2024 </span>
                     </div>
                 </div>
                 <div>

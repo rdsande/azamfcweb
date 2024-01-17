@@ -42,7 +42,11 @@
                         Jangama 'Cantona', Abdulkarim Amin 'Popat', Hassan Jeba, Said Nachikongo, Mussa Juma, Faraj
                         Ismail, Mazaila Athuman and James Adriano Kilongola.
                     </p>
-                    <img src="{{ asset('img/hist/hist1.jpg')}}" />
+                    <div class="hist-img" uk-lightbox="animation: fade">
+                        <a href="{{ asset('img/hist/hist1.jpg')}}">
+                            <img src="{{ asset('img/hist/hist1.jpg')}}">
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -55,7 +59,11 @@
             </div>
             <div class="tl-body">
                 <div class="hist-cont">
-                    <img src="{{ asset('img/hist/hist2.jpg')}}" />
+                    <div class="hist-img" uk-lightbox="animation: fade">
+                        <a href="{{ asset('img/hist/hist2.jpg')}}">
+                            <img src="{{ asset('img/hist/hist2.jpg')}}">
+                        </a>
+                    </div>
 
                     <p>
                         After only playing friendly matches, in 2005, Mzizima FC participated in official league after
@@ -109,7 +117,12 @@
                         On 28/10/2005, the newly formed team adopted the new name, Azam Sports Club, because Azam is the
                         flagship name for the SSB group of companies.
                     </p>
-                    <img src="{{ asset('img/hist/hist3.jpg')}}" />
+                    <div class="hist-img" uk-lightbox="animation: fade">
+                        <a href="{{ asset('img/hist/hist3.jpg')}}">
+                            <img src="{{ asset('img/hist/hist3.jpg')}}">
+                        </a>
+                    </div>
+
                 </div>
             </div>
         </div>
@@ -123,7 +136,11 @@
             <div class="tl-body">
                 <div class="hist-cont">
 
-                    <img src="{{ asset('img/hist/hist4.jpg')}}" />
+                    <div class="hist-img" uk-lightbox="animation: fade">
+                        <a href="{{ asset('img/hist/hist4.jpg')}}">
+                            <img src="{{ asset('img/hist/hist4.jpg')}}">
+                        </a>
+                    </div>
                     <p>
                         After winning the Ilala District Championship (division four) in 2005, Azam SC was automatically
                         promoted to the Dar es Salaam regional league (division three). But the regional league proved
@@ -200,7 +217,11 @@
                         Since promotion, Azam FC have managed to finish in top three in all seasons, except 2008/09
                         [eighth] and 2016/17 [fourth].
                     </p>
-                    <img src="{{ asset('img/hist/hist10.jpg')}}" />
+                    <div class="hist-img" uk-lightbox="animation: fade">
+                        <a href="{{ asset('img/hist/hist10.jpg')}}">
+                            <img src="{{ asset('img/hist/hist10.jpg')}}">
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>

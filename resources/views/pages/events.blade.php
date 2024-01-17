@@ -21,7 +21,7 @@
                         <div class="uk-card-media-left uk-cover-container">
                             <!-- <img src="{{ asset('img/latest/afc1.jpg')}}" alt="" uk-cover>
                             <canvas width="600" height="400"></canvas> -->
-                            <iframe loading=“lazy” width="100%" height="360"
+                            <iframe loading=“lazy” width="100%" height="100%"
                                 src="https://www.youtube.com/embed/8QO2fQBwVqM" title="LIVE:  AZAM FC FESTIVAL 2020"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -43,7 +43,7 @@
                         <div class="uk-card-media-left uk-cover-container">
                             <!-- <img src="{{ asset('img/latest/afc1.jpg')}}" alt="" uk-cover>
                             <canvas width="600" height="400"></canvas> -->
-                            <iframe loading=“lazy” width="100%" height="360"
+                            <iframe loading=“lazy” width="100%" height="100%"
                                 src="https://www.youtube.com/embed/7NfG_HpYMyQ"
                                 title="LIVE -  AZAM FC INAZINDUA NEMBO MPYA - AZAM TV 14/08/2021" frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -61,7 +61,7 @@
                         <div class="uk-card-media-left uk-cover-container">
                             <!-- <img src="{{ asset('img/latest/afc1.jpg')}}" alt="" uk-cover>
                             <canvas width="600" height="400"></canvas> -->
-                            <iframe loading=“lazy” width="100%" height="360"
+                            <iframe loading=“lazy” width="100%" height="100%"
                                 src="https://www.youtube.com/embed/o381W8-_NJI"
                                 title="LIVE -  AZAM FC INAZINDUA NEMBO MPYA - AZAM TV 14/08/2021" frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -79,7 +79,7 @@
                         <div class="uk-card-media-left uk-cover-container">
                             <!-- <img src="{{ asset('img/latest/afc1.jpg')}}" alt="" uk-cover>
                             <canvas width="600" height="400"></canvas> -->
-                            <iframe loading=“lazy” width="100%" height="360"
+                            <iframe loading=“lazy” width="100%" height="100%"
                                 src="https://www.youtube.com/embed/oQf10GlcVBk"
                                 title="LIVE -  AZAM FC INAZINDUA NEMBO MPYA - AZAM TV 14/08/2021" frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -97,7 +97,7 @@
                         <div class="uk-card-media-left uk-cover-container">
                             <!-- <img src="{{ asset('img/latest/afc1.jpg')}}" alt="" uk-cover>
                             <canvas width="600" height="400"></canvas> -->
-                            <iframe loading=“lazy” width="100%" height="360"
+                            <iframe loading=“lazy” width="100%" height="100%"
                                 src="https://www.youtube.com/embed/k9SqC3fv-fs"
                                 title="LIVE -  AZAM FC INAZINDUA NEMBO MPYA - AZAM TV 14/08/2021" frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -115,7 +115,7 @@
                         <div class="uk-card-media-left uk-cover-container">
                             <!-- <img src="{{ asset('img/latest/afc1.jpg')}}" alt="" uk-cover>
                             <canvas width="600" height="400"></canvas> -->
-                            <iframe loading=“lazy” width="100%" height="360"
+                            <iframe loading=“lazy” width="100%" height="100%"
                                 src="https://www.youtube.com/embed/J05ZZRV_8kE"
                                 title="AZAMKA 2022 | Tazama utambulisho wa wachezaji uliofanywa na Azam FC"
                                 frameborder="0"
