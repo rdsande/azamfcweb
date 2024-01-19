@@ -52,6 +52,12 @@
                         <div>
                             <div class="uk-card-body">
                                 <h3 class="uk-card-title">SIKU YA MTOTO WA AZAM (AZAM CHILD DAY) | 2020</h3>
+                                <p>Explore the heartwarming moments and celebrations of "Siku ya Mtoto wa Azam" (Azam
+                                    Child Day) in this 2020 video. Join the joyous festivities as Azam embraces the
+                                    spirit of childhood, capturing precious memories and highlighting the importance of
+                                    nurturing and cherishing the future generation. Witness a day filled with laughter,
+                                    activities, and a vibrant showcase of the love and care dedicated to the children of
+                                    Azam.</p>
                             </div>
                         </div>
                     </div>
@@ -70,6 +76,14 @@
                         <div>
                             <div class="uk-card-body">
                                 <h3 class="uk-card-title">SIKU YA MTOTO WA AZAM (AZAM CHILD DAY)| 2021</h3>
+                                <p>
+                                    Dive into the enchanting world of "Siku ya Mtoto wa Azam" (Azam Child Day) with this
+                                    captivating 2021 video. Experience the magic as Azam celebrates the spirit of
+                                    childhood, offering a glimpse into a day dedicated to joy, learning, and creativity
+                                    for the young ones. From exciting activities to heartwarming moments, join in the
+                                    festivities that highlight the commitment to nurturing and empowering the children
+                                    of Azam. Explore the vibrant tapestry of love and laughter woven throughout this
+                                    special day in 2021. </p>
                             </div>
                         </div>
                     </div>
@@ -88,6 +102,14 @@
                         <div>
                             <div class="uk-card-body">
                                 <h3 class="uk-card-title">NEW AZAM FC LOGO LAUNCHING | Aug 14, 2021</h3>
+                                <p>
+                                    Step into the exciting world of football as Azam FC unveils its brand new logo in
+                                    this captivating video from August 14, 2021. Experience the anticipation and
+                                    enthusiasm surrounding the logo launch, as the club embraces a fresh identity and
+                                    sets the stage for a new era. Immerse yourself in the symbolism and design elements
+                                    that define Azam FC's commitment to excellence. Join the celebration of tradition,
+                                    innovation, and the thrilling journey ahead for one of the most iconic football
+                                    clubs.</p>
                             </div>
                         </div>
                     </div>
@@ -106,6 +128,13 @@
                         <div>
                             <div class="uk-card-body">
                                 <h3 class="uk-card-title">AZAMKA | 2022</h3>
+                                <p>Step into the exhilarating world of "AZAMKA | 2022," where the spirit of football and
+                                    festivity collide in the ultimate AZAM FC Festival. Join the excitement as the
+                                    passionate fans, talented players, and vibrant energy come together to celebrate the
+                                    essence of the beautiful game. From thrilling matches to fan engagement activities,
+                                    experience the pulse-pounding moments that make this football festival a must-watch.
+                                    Get ready to witness the unity, passion, and electrifying atmosphere that define
+                                    AZAMKA in 2022</p>
                             </div>
                         </div>
                     </div>
@@ -125,6 +154,13 @@
                         <div>
                             <div class="uk-card-body">
                                 <h3 class="uk-card-title">LED PERIMETER BOARDS LAUNCHING - 2023</h3>
+                                <p>This video takes you behind the scenes of the groundbreaking event, showcasing the
+                                    cutting-edge technology and innovation that define the new era in perimeter
+                                    advertising. Immerse yourself in the dynamic visuals and unveil the power of LED
+                                    technology in revolutionizing sports and event advertising. Don't miss the
+                                    excitement as we introduce a game-changing solution that promises to elevate the
+                                    spectator experience. Get ready for the next level in advertising with the launch of
+                                    LED Perimeter Boards!</p>
                             </div>
                         </div>
                     </div>

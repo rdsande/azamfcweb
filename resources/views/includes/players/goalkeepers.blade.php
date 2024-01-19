@@ -1,5 +1,5 @@
 <!-- Player -->
-<li>
+<!-- <li>
     <a href="{{url('player1')}}">
         <div>
             <div class="uk-card uk-card-default uk-card-body uk-animation-toggle" tabindex="0">
@@ -26,8 +26,36 @@
             </div>
         </div>
     </a>
-</li>
+</li> -->
 <!-- Player -->
+<li>
+    <a href="{{url('player29')}}">
+        <div>
+            <div class="uk-card uk-card-default uk-card-body uk-animation-toggle" tabindex="0">
+                <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
+                    <span class="bgtop"></span>
+                    <img loading="lazy" class="uk-transition-scale-up uk-transition-opaque"
+                        src="{{ asset('/img/players/profiles/keeper.png')}}" width="1800" height="1200" alt="">
+                </div>
+                <div class="player-card-details uk-animation-slide-bottom-medium">
+                    <div class="uk-child-width-expand@s uk-text-center" uk-grid>
+                        <div>
+                            <span class="uk-heading-divider">MOHAMED MUSTAFA<span class="secondname">
+                                    MOHAMED
+                                </span></span>
+                            <span class="pos-player"> Goalkeeper </span>
+                        </div>
+                        <div>
+                            <span class="plyr-number">
+                                16
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</li>
 <li>
     <a href="{{url('player2')}}">
         <div>

@@ -216,7 +216,7 @@
         </div>
     </a>
 </li>
-<li>
+<!-- <li>
     <a href="{{url('player24')}}">
         <div>
             <div class="uk-card uk-card-default uk-card-body uk-animation-toggle" tabindex="0">
@@ -242,7 +242,7 @@
             </div>
         </div>
     </a>
-</li>
+</li> -->
 <li>
     <a href="{{url('player25')}}">
         <div>

@@ -123,6 +123,24 @@ Route::get('player25', function () {
 });
 
 
+Route::get('player26', function () {
+    return view('/playerprofile/senior/pl26');
+});
+
+Route::get('player27', function () {
+    return view('/playerprofile/senior/pl27');
+});
+
+Route::get('player28', function () {
+    return view('/playerprofile/senior/pl28');
+});
+
+Route::get('player29', function () {
+    return view('/playerprofile/senior/pl29');
+});
+
+
+
 //PROFILES TEMP START ACADEMY
 Route::get('player-academy1', function () {
     return view('/playerprofile/academy/pl1');
