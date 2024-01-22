@@ -12,5 +12,6 @@
         </ul>
     </div>
 </li>
-<li><a href="{{ url('https://shop.azamfc.co.tz')}}" type="button"> <i class="ri-shopping-cart-2-line"></i> SHOP</a></li>
+<li><a href="{{ url('https://shop.azamfc.co.tz')}}" type="button" target="_blank"> <i
+            class="ri-shopping-cart-2-line"></i> SHOP</a></li>
 <li><i class="ri-search-line"></i> </li>

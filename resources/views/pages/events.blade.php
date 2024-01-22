@@ -22,10 +22,11 @@
                             <!-- <img src="{{ asset('img/latest/afc1.jpg')}}" alt="" uk-cover>
                             <canvas width="600" height="400"></canvas> -->
                             <iframe loading=“lazy” width="100%" height="100%"
-                                src="https://www.youtube.com/embed/8QO2fQBwVqM" title="LIVE:  AZAM FC FESTIVAL 2020"
+                                src="https://www.youtube.com/embed/tT9kLzmp4J4" title="LIVE:  AZAM FC FESTIVAL 2020"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowfullscreen></iframe>
+
                         </div>
                         <div>
                             <div class="uk-card-body">
@@ -34,6 +35,10 @@
                                 <p><audio controls>
                                         <source src="{{asset('audio/kuwe.mp3')}}" type="audio/mp3" />
                                     </audio></p>
+
+                                <label class="uk-success"> <a class="uk-button uk-button-primary"
+                                        href="https://www.youtube.com/watch?v=8QO2fQBwVqM&embeds_referring_euri=http%3A%2F%2F127.0.0.1%3A8000%2F&source_ve_path=MTc4NDI0&ab_channel=AzamFootballClub">
+                                        Watch full event</a></label>
                             </div>
                         </div>
                     </div>
@@ -145,15 +150,43 @@
                             <!-- <img src="{{ asset('img/latest/afc1.jpg')}}" alt="" uk-cover>
                             <canvas width="600" height="400"></canvas> -->
                             <iframe loading=“lazy” width="100%" height="100%"
-                                src="https://www.youtube.com/embed/J05ZZRV_8kE"
+                                src="https://www.youtube.com/embed/hx99Ss1XbZI"
                                 title="AZAMKA 2022 | Tazama utambulisho wa wachezaji uliofanywa na Azam FC"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowfullscreen></iframe>
+
                         </div>
                         <div>
                             <div class="uk-card-body">
-                                <h3 class="uk-card-title">LED PERIMETER BOARDS LAUNCHING - 2023</h3>
+                                <h3 class="uk-card-title">LED PERIMETER BOARDS LAUNCHING - 2023 (PT 1)</h3>
+                                <p>This video takes you behind the scenes of the groundbreaking event, showcasing the
+                                    cutting-edge technology and innovation that define the new era in perimeter
+                                    advertising. Immerse yourself in the dynamic visuals and unveil the power of LED
+                                    technology in revolutionizing sports and event advertising. Don't miss the
+                                    excitement as we introduce a game-changing solution that promises to elevate the
+                                    spectator experience. Get ready for the next level in advertising with the launch of
+                                    LED Perimeter Boards!</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Achievement -->
+                    <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
+                        <div class="uk-card-media-left uk-cover-container">
+                            <!-- <img src="{{ asset('img/latest/afc1.jpg')}}" alt="" uk-cover>
+                            <canvas width="600" height="400"></canvas> -->
+                            <iframe loading=“lazy” width="100%" height="100%"
+                                src="https://www.youtube.com/embed/QXCasd92LT8"
+                                title="AZAMKA 2022 | Tazama utambulisho wa wachezaji uliofanywa na Azam FC"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+
+                        </div>
+                        <div>
+                            <div class="uk-card-body">
+                                <h3 class="uk-card-title">LED PERIMETER BOARDS LAUNCHING - 2023 (PT 2)</h3>
                                 <p>This video takes you behind the scenes of the groundbreaking event, showcasing the
                                     cutting-edge technology and innovation that define the new era in perimeter
                                     advertising. Immerse yourself in the dynamic visuals and unveil the power of LED

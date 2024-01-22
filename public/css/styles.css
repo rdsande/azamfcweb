@@ -2146,6 +2146,15 @@ span.result-item {
     font-size: 2rem;
 }
 
+h3.uk-card-title {
+    color: var(--primary) !important;
+}
+
+.logo-bg-footer img {
+    margin-top: 3rem;
+    width: 120px ;
+}
+
 /* .about-vertical {
     display: flex;
     overflow: hidden;
@@ -2678,10 +2687,6 @@ h3.stat-item2.away {
     color: var(--alternative);
 }
 
-.logo-bg-footer img {
-    width: 200px;
-}
-
 div#cafc .widget-header-wrapper {
     margin-bottom: 0;
 }
@@ -2705,7 +2710,7 @@ span.hight {
 }
 
 .socialmediacontainer {
-    border-top: 1px solid;
+    border-top: 1px solid rgba(255,255,255,.2);
 }
 
 .match-center {

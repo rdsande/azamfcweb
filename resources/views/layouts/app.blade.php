@@ -79,7 +79,7 @@
                     <div class="nav-top-left" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 500">
 
                         <div uk-alert class="alert-type-one">
-                            <a href="https://shop.azamfc.co.tz" type="button">
+                            <a href="https://shop.azamfc.co.tz" type="button" target="_blank">
                                 Get your AZAMFC new kits | &#128293; <span class="cta-btn-one"> BUY
                                 </span>
                                 <!-- <a class="uk-alert-close" uk-close></a> -->
@@ -278,14 +278,20 @@
                 <div>
                     <div class="uk-bg-highlight uk-padding">
                         <div>
+                            <h4 class="uk-light">QUICKLINKS</h4>
                             <ul class="uk-list uk-list-hyphen">
                                 <li><a href="{{ url ('about')}}"> About AZAM FC </a></li>
                                 <li><a href="{{ url ('contact')}}"> Contact us </a></li>
                                 <li><a href="{{ url ('privacy')}}"> Privacy & Cookies </a></li>
-                                <li><a href="{{ url ('terms')}}"> Terms & Conditions </a></li>
+                                <li><a href="{{ url ('terms-conditions')}}"> Terms & Conditions </a></li>
                             </ul>
                         </div>
                         <span class="ftr-copy"> &copy; Azam Football Club, 2024 </span>
+
+                        <div class="logo-bg-footer">
+                            <a target="_blank" href="https://bakhresa.com"><img src="{{ asset('img/bglogo.svg')}}"
+                                    alt="A division of Bakhresa Group Logo" title="Bakhresa Group Logo" /></a>
+                        </div>
                     </div>
                 </div>
                 <div>

@@ -520,6 +520,14 @@ Route::get('login', function () {
     return view('/pages/login');
 });
 
+Route::get('privacy', function () {
+    return view('/pages/privacy');
+});
+
+Route::get('terms-conditions', function () {
+    return view('/pages/terms-conditions');
+});
+
 //Team - View
 Route::get('viewteam', function () {
     return view('/pages/team');
