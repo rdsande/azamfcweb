@@ -72,7 +72,7 @@
                     </div>
                 </div>
             </div>
-            <div>
+            <!-- <div>
                 <div class="uk-card uk-card-default uk-card-body inner-info-plyr">
                     <div uk-grid>
                         <div class="uk-width-auto@m">
@@ -84,7 +84,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <div>
                 <div class="uk-card uk-card-default uk-card-body inner-info-plyr">
                     <div uk-grid>
