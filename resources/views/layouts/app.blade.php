@@ -208,6 +208,14 @@
         </div>
     </header>
     <!-- Header Desktop End-->
+    <div class="uk-alert-primary mobile-only" uk-alert>
+        <a href class="uk-alert-close" uk-close></a>
+        <a href="https://shop.azamfc.co.tz" type="button" target="_blank">
+            Get your AZAMFC new kits | &#128293; <span class="cta-btn-one"> BUY
+            </span>
+            <!-- <a class="uk-alert-close" uk-close></a> -->
+        </a>
+    </div>
 
     <!-- Mobile Header Begin -->
     <nav class="uk-navbar-container mobile-only-nav">

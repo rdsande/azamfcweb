@@ -382,6 +382,10 @@ h1.hero-title, h1.hero-title a {
     justify-content: center;
 }
 
+.mobile-only {
+    display: block !important;
+}
+
 }
 
 /* Mobile only*/
@@ -400,7 +404,14 @@ h1.hero-title, h1.hero-title a {
 
 }
 
+
+
 /* Desktop*/
+
+.mobile-only {
+    display: none;
+}
+
 .app-inst-alert {
     display: none;
 }
@@ -409,3 +420,12 @@ h1.hero-title, h1.hero-title a {
     display: none;
 }
 
+.uk-alert-primary.mobile-only.uk-alert {
+    margin: 0;
+}
+
+.uk-alert-primary.mobile-only.uk-alert a {
+    text-align: center;
+    text-decoration: none;
+    font-family: var(--alt-font);
+}
