@@ -1,6 +1,30 @@
 /* Responsive */
 
-@media only screen and (max-width: 600px) {
+/*Tablet only*/
+@media (min-width: 768px) and (max-width: 1024px) {
+
+  [class*='uk-child-width'] > * {
+    box-sizing: border-box;
+    width: 33.3%;
+}
+
+.results-fixtures-carousel .uk-child-width-1-2 > * {
+    width: 45% !important;
+}
+
+.logo-bg-footer img {
+    width: 30% !important;
+}
+
+.socialmediacontainer li i {
+    font-size: 25px !important;
+}
+  
+}
+
+
+/*Tablet and mobile*/
+@media all and (max-width: 1024px) {
 
 .site-header {
     display: none;
@@ -337,6 +361,8 @@ h1.hero-title, h1.hero-title a {
 }
 
 }
+
+
 
 /* Desktop*/
 .app-inst-alert {
