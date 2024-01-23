@@ -1,8 +1,8 @@
 /* AFC Defaults */
 :root {
-    --primary: #00019E;
-    --primary-shade-one: #3334b1;
-    --primary-shade-two: #00019e;
+    --primary: #005aae;
+    --primary-shade-one: #023287;
+    --primary-shade-two: #0039aa;
     --secondary: #ECF3FF;
     --text-offwhite: rgb(255, 255, 240);
     --alternative: #D39037;
@@ -10,9 +10,9 @@
     --font-body: 'Barlow', sans-serif;
     --alt-font: 'Redzone (Indoor Football League)', sans-serif;
     --alt-font1: 'VTF Redzone Classic', sans-serif;
-    --gradient-one: linear-gradient(180deg, rgba(0,1,158,1) 6%, rgba(102,103,197,1) 80%);
-    --gradient-two: linear-gradient(0deg, rgba(0,1,158,1) 10%, rgba(0,1,158, 20%), rgba(0,1,158,0) 75%);
-    --gradient-three: linear-gradient(0deg, rgba(0,1,158,1) 10%, rgba(0,1,158, 60%), rgba(0,1,158,0) 75%);
+    --gradient-one: linear-gradient(180deg, rgba(0, 57,170,1) 6%, rgba(102,103,197,1) 80%);
+    --gradient-two: linear-gradient(0deg, rgba(0, 57,170,1) 10%, rgba(0, 57,170, 20%), rgba(0, 57,170,0) 75%);
+    --gradient-three: linear-gradient(0deg, rgba(0, 57,170,1) 10%, rgba(0, 57,170, 60%), rgba(0, 57,170,0) 75%);
     --gradient-four: linear-gradient(0deg, rgba(0,0,0,0) 0, rgba(0,0,0,0) 100%);
     --gradient-five: linear-gradient(0deg, rgba(211,144,55,1) 10%, rgba(211,144,55, 60%), rgba(211,144,55,0) 75%);
     --shadow-one:
@@ -2697,7 +2697,7 @@ span.hight {
 }
 
 .uk-overlay-primary.uk-position-cover.primary {
-    background: rgba(0,1,158,.65);
+    background: rgba(0, 57,170,.65);
 }
 
 .uk-offcanvas-bar.uk-offcanvas-bar-animation.uk-offcanvas-slide {
