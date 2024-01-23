@@ -19,6 +19,22 @@
 .socialmediacontainer li i {
     font-size: 25px !important;
 }
+
+.widget-header-wrapper {
+    padding: 1rem;
+}
+
+.latest-featured-game .uk-overlay.uk-position-center.uk-light {
+    width: 100% !important;
+}
+
+.highlight-score-section .uk-column-1-2 {
+    flex-flow: row !important;
+}
+
+.fxtures-home li {
+    width: 35% !important;
+}
   
 }
 
@@ -362,7 +378,12 @@ h1.hero-title, h1.hero-title a {
 
 }
 
-
+/* Mobile only*/
+@media only screen and (max-width: 600px) {
+	.afc-footer img {
+    width: 120px;
+}
+}
 
 /* Desktop*/
 .app-inst-alert {
