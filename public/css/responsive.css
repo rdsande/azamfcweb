@@ -60,7 +60,7 @@
 }
 
 nav.uk-navbar-container.mobile-only-nav {
-    background: linear-gradient(180deg, rgba(9,9,121,1) 17%, rgba(9,9,121,0) 100%);
+    background: linear-gradient(180deg, rgba(0, 90,174,1) 17%, rgba(0, 90,174,0) 100%);
     position: absolute;
     z-index: 9999 !important;
     width: 100%;
@@ -376,6 +376,12 @@ h1.hero-title, h1.hero-title a {
     font-size: 25px;
 }
 
+.logo-bg-footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 }
 
 /* Mobile only*/
@@ -383,6 +389,15 @@ h1.hero-title, h1.hero-title a {
 	.afc-footer img {
     width: 120px;
 }
+
+.socialmediacontainer li i {
+    font-size: 28px;
+}
+
+.socialmediacontainer li {
+    padding: 10px;
+}
+
 }
 
 /* Desktop*/
