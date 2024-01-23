@@ -39,6 +39,33 @@
 }
 
 
+
+
+@media (min-width: 1024px) and (max-width: 1280px) {
+.nav-middle-right .uk-navbar-nav a, .nav-middle-left .uk-navbar-nav a {
+    font-size: 1.06em;
+}
+
+.nav-middle-right {
+    width: 50%;
+}
+
+.nav-middle.main-nav .uk-container {
+    padding: 0;
+}
+
+.uk-navbar-nav {
+    gap: 5px; 
+}
+
+.nav-middle-right {
+    width: 35%;
+}
+
+}
+
+
+
 /*Tablet and mobile*/
 @media all and (max-width: 1024px) {
 
