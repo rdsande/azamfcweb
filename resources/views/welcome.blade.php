@@ -105,9 +105,9 @@
                         <div class="card-tag">
                             <div class="card-inner-teams-results">
                                 <div class="home-team-item">
-                                    <img src="{{ asset('img/teamlogos/geita.png')}}" class="logo-card-item"
+                                    <img src="{{ asset('img/teamlogos/simba.png')}}" class="logo-card-item"
                                         alt="Team Logo" />
-                                    <span class="team-name-card-item"> Geita Gold </span>
+                                    <span class="team-name-card-item"> Simba SC </span>
                                 </div>
                                 <div class="game-time">
                                     <h3>16:00</h3>
@@ -119,7 +119,7 @@
                             </div>
                             <div class="card-inner">
                                 <h4 class="comp-label"> NBC PREMIER LEAGUE </h4>
-                                <span class="date"> <i class="ri-time-line"></i> TBD | GEITA</span>
+                                <span class="date"> <i class="ri-time-line"></i> 09/02/2024 | MWANZA</span>
                             </div>
                         </div>
 

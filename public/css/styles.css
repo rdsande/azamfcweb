@@ -411,7 +411,7 @@ span.hero-meta {
 }
 
 h1.hero-title, h1.hero-title a {
-    font-size: 40px;
+    font-size: 30px;
     text-align: center;
     font-weight: normal;
     color: var(--secondary);

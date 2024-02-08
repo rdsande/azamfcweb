@@ -15,10 +15,10 @@
             <div class="uk-width-auto@m">
                 <div class="uk-card uk-card-default uk-card-body">
                     <div class="uk-column-1-2">
-                        <p>GEITA GOLD</p>
+                        <p>SIMBA SC</p>
                         <!-- Home team logo -->
                         <p>
-                            <img src="{{ asset('img/teamlogos/geita.png')}}" alt="team" />
+                            <img src="{{ asset('img/teamlogos/simba.png')}}" alt="team" />
                         </p>
                     </div>
                 </div>
