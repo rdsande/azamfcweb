@@ -132,11 +132,11 @@
                 <div class="team-disp-1 results-section">
                     <div class="scr-card">
                         <span class="hm-team-score">
-                            4
+                            0
                         </span>
                         :
                         <span class="hm-team-score">
-                            0
+                            4
                         </span>
 
                     </div>
