@@ -15,10 +15,10 @@
             <div class="uk-width-auto@m">
                 <div class="uk-card uk-card-default uk-card-body">
                     <div class="uk-column-1-2">
-                        <p>TABORA UTD</p>
+                        <p>TANZANIA PRISONS</p>
                         <!-- Home team logo -->
                         <p>
-                            <img src="{{ asset('img/teamlogos/tabora.png')}}" alt="team" />
+                            <img src="{{ asset('img/teamlogos/prison.png')}}" alt="team" />
                         </p>
                     </div>
                 </div>
@@ -44,7 +44,7 @@
         <!-- Date Info -->
         <div class="uk-child-width-expand@s uk-text-center" uk-grid>
             <div class="uk-width-auto@m uk-align-center">
-                <p class="stadium-details"> 19/02/2024 <span class="boldfont">| TABORA</span> </p>
+                <p class="stadium-details"> 25/02/2024 <span class="boldfont">| TABORA</span> </p>
             </div>
         </div>
     </div>
