@@ -617,6 +617,15 @@ Route::get('post8', function () {
 Route::get('post9', function () {
     return view('/posts/viewpost9');
 });
+Route::get('post10', function () {
+    return view('/posts/viewpost10');
+});
+Route::get('post11', function () {
+    return view('/posts/viewpost11');
+});
+Route::get('post12', function () {
+    return view('/posts/viewpost12');
+});
 
 //Latest News - View
 Route::get('latestnews', function () {
