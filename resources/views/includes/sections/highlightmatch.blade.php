@@ -15,10 +15,10 @@
             <div class="uk-width-auto@m">
                 <div class="uk-card uk-card-default uk-card-body">
                     <div class="uk-column-1-2">
-                        <p>TANZANIA PRISONS</p>
+                        <p>AZAM FC</p>
                         <!-- Home team logo -->
                         <p>
-                            <img src="{{ asset('img/teamlogos/prison.png')}}" alt="team" />
+                            <img src="{{ asset('img/logo.png')}}" alt="team" />
                         </p>
                     </div>
                 </div>
@@ -34,9 +34,9 @@
                     <div class="uk-column-1-2">
                         <!-- Away team logo -->
                         <p>
-                            <img src="{{ asset('img/logo.png')}}" alt="team" />
+                            <img src="{{ asset('img/teamlogos/dodomajiji.png')}}" alt="team" />
                         </p>
-                        <p>AZAM FC</p>
+                        <p>DODOMA JIJI</p>
                     </div>
                 </div>
             </div>
@@ -44,7 +44,7 @@
         <!-- Date Info -->
         <div class="uk-child-width-expand@s uk-text-center" uk-grid>
             <div class="uk-width-auto@m uk-align-center">
-                <p class="stadium-details"> 25/02/2024 <span class="boldfont">| TABORA</span> </p>
+                <p class="stadium-details"> 03/03/2024 <span class="boldfont">| AZAM COMPLEX</span> </p>
             </div>
         </div>
     </div>
