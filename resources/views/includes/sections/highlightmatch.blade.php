@@ -34,9 +34,9 @@
                     <div class="uk-column-1-2">
                         <!-- Away team logo -->
                         <p>
-                            <img src="{{ asset('img/teamlogos/dodomajiji.png')}}" alt="team" />
+                            <img src="{{ asset('img/teamlogos/coastal.png')}}" alt="team" />
                         </p>
-                        <p>DODOMA JIJI</p>
+                        <p>COASTAL UNION</p>
                     </div>
                 </div>
             </div>
