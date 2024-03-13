@@ -28,6 +28,43 @@
                         <div class="card-tag">
                             <div class="card-inner-teams-results">
                                 <div class="home-team-item">
+                                    <img src="{{ asset('img/teamlogos/coastal.png')}}" class="logo-card-item"
+                                        alt="Team Logo" />
+                                    <span class="team-name-card-item"> COASTAL UNION </span>
+                                </div>
+                                <div class="game-score">
+                                    <span class="result-item">
+                                        <h3>1</h3>
+                                    </span>
+                                    <span class="result-item">
+                                        <h3>1</h3>
+                                    </span>
+                                </div>
+                                <div class="home-team-item">
+                                    <img src="{{ asset('img/logo.png')}}" class="logo-card-item" alt="Team Logo" />
+                                    <span class="team-name-card-item"> AZAM FC </span>
+                                </div>
+                            </div>
+                            <div class="card-inner">
+                                <h4 class="comp-label"> NBC PREMIER LEAGUE </h4>
+                                <span class="date"> <i class="ri-time-line"></i> 06/03/2024 | AZAM COMPLEX </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Match Card -- Last Match -->
+                <div class="match-home-card">
+                    <div class="uk-card uk-card-default uk-card-body">
+                        <div class="widget-header-wrapper ">
+                            <div class="widget-header-wrapper__header">
+                                <header class="widget-header  ">
+                                    <h2 class="widget-header__title"> Previous Match </h2>
+                                </header>
+                            </div>
+                        </div>
+                        <div class="card-tag">
+                            <div class="card-inner-teams-results">
+                                <div class="home-team-item">
                                     <img src="{{ asset('img/logo.png')}}" class="logo-card-item" alt="Team Logo" />
                                     <span class="team-name-card-item"> AZAM FC </span>
                                 </div>
@@ -52,45 +89,6 @@
                         </div>
                     </div>
                 </div>
-                <!-- Match Card -- Last Match -->
-                <div class="match-home-card">
-                    <div class="uk-card uk-card-default uk-card-body">
-                        <div class="widget-header-wrapper ">
-                            <div class="widget-header-wrapper__header">
-                                <header class="widget-header  ">
-                                    <h2 class="widget-header__title"> Previous Match </h2>
-                                </header>
-                            </div>
-                        </div>
-
-                        <div class="card-tag">
-                            <div class="card-inner-teams-results">
-                                <div class="home-team-item">
-                                    <img src="{{ asset('img/teamlogos/singida.png')}}" class="logo-card-item"
-                                        alt="Team Logo" />
-                                    <span class="team-name-card-item"> Singida Fountain Gate </span>
-                                </div>
-                                <div class="game-score">
-                                    <span class="result-item">
-                                        <h3>0</h3>
-                                    </span>
-                                    <span class="result-item">
-                                        <h3>1</h3>
-                                    </span>
-                                </div>
-                                <div class="home-team-item">
-                                    <img src="{{ asset('img/logo.png')}}" class="logo-card-item" alt="Team Logo" />
-                                    <span class="team-name-card-item"> Azam FC </span>
-                                </div>
-                            </div>
-                            <div class="card-inner">
-                                <h4 class="comp-label"> NBC PREMIER LEAGUE </h4>
-                                <span class="date"> <i class="ri-time-line"></i> 25/02/2024 </span>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
                 <!-- Match Card -- Next Match -->
                 <div class="match-home-card">
                     <div class="uk-card uk-card-default uk-card-body">
@@ -108,17 +106,17 @@
                                     <span class="team-name-card-item"> AZAM FC </span>
                                 </div>
                                 <div class="game-time">
-                                    <h3>18:00</h3>
+                                    <h3>19:00</h3>
                                 </div>
                                 <div class="home-team-item">
-                                    <img src="{{ asset('img/teamlogos/coastal.png')}}" class="logo-card-item"
+                                    <img src="{{ asset('img/teamlogos/yanga.png')}}" class="logo-card-item"
                                         alt="Team Logo" />
-                                    <span class="team-name-card-item"> COASTAL UNION </span>
+                                    <span class="team-name-card-item"> YANGA SC </span>
                                 </div>
                             </div>
                             <div class="card-inner">
                                 <h4 class="comp-label"> NBC PREMIER LEAGUE </h4>
-                                <span class="date"> <i class="ri-time-line"></i> 06/03/2024 | AZAM COMPLEX </span>
+                                <span class="date"> <i class="ri-time-line"></i> 17/03/2024 | MKAPA STADIUM </span>
                             </div>
                         </div>
                     </div>

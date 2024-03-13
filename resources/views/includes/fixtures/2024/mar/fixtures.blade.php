@@ -43,19 +43,19 @@
         <div class="inner-fixtures">
             <h3><img src="{{asset('img/league/nbc.png')}}" class="compt-logo"> NBC PREMIER LEAGUE </h3>
             <p> 06/03/2024</p>
-            <p> AZAM COMPLEX, CHAMAZI</p>
+            <p> MKWAKWANI, TANGA</p>
             <div class="teams-inner-container">
                 <div class="team-disp-1">
                     <img src="{{ asset('img/logo.png')}}" class="logo-card-item" alt="Team Logo" />
                 </div>
-                <div class="team-disp-1">
+                <div class="team-disp-1 results-section">
                     <div class="scr-card">
                         <span class="hm-team-score">
-                            20
+                            1
                         </span>
                         :
                         <span class="hm-team-score">
-                            00
+                            1
                         </span>
 
                     </div>
