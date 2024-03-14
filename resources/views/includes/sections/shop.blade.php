@@ -15,7 +15,7 @@
                             <span class="product-elem"></span>
                             <!-- Product Title -->
                             <h3 class="uk-card-title">HOME KIT</h3>
-                            <button class="uk-button uk-button-primary" uk-toggle="target: #my-id" type="button"> View
+                            <button class="uk-button uk-button-primary"> View
                                 Product </button>
                         </div>
                     </div>
@@ -36,7 +36,7 @@
                             <span class="product-elem"></span>
                             <!-- Product Title -->
                             <h3 class="uk-card-title">AWAY KIT</h3>
-                            <button class="uk-button uk-button-primary" uk-toggle="target: #my-id" type="button"> View
+                            <button class="uk-button uk-button-primary"> View
                                 Product </button>
                         </div>
                     </div>
@@ -57,7 +57,7 @@
                             <span class="product-elem"></span>
                             <!-- Product Title -->
                             <h3 class="uk-card-title">THIRD KIT</h3>
-                            <button class="uk-button uk-button-primary" uk-toggle="target: #my-id" type="button"> View
+                            <button class="uk-button uk-button-primary"> View
                                 Product </button>
                         </div>
                     </div>
