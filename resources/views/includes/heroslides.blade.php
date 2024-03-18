@@ -2,12 +2,12 @@
     <div class="hero-slides">
 
         <div class="afc-slide active" uk-img="loading: eager"
-            style="background-image: url('{{ asset('/img/latest/drawcoastal.jpg')}}');">
+            style="background-image: url('{{ asset('/img/latest/yangawin.jpg')}}');">
             <span class="bgtop"></span>
             <!-- Hero Items Inside Slide -->
             <span class="hero-meta">
-                <h1 class="hero-title"> <a href="{{ url('post14')}}"> Late Drama at Mkwakwani as Azam FC draws with
-                        Coastal Union 1-1
+                <h1 class="hero-title"> <a href="{{ url('post15')}}"> Feisal Strikes Against Yanga as Azam FC Upsets
+                        Reigning Champions
                     </a></h1>
                 <div class="uk-column-1-2 w-line-separator inner-hero-tags">
                     <p>
@@ -27,12 +27,12 @@
         </div>
 
         <div class="afc-slide" uk-img="loading: eager"
-            style="background-image: url('{{ asset('/img/latest/feisallyanga.jpg')}}');">
+            style="background-image: url('{{ asset('/img/latest/drawcoastal.jpg')}}');">
             <span class="bgtop"></span>
             <!-- Hero Items Inside Slide -->
             <span class="hero-meta">
-                <h1 class="hero-title"> <a href="{{ url('post13')}}"> Azam FC Triumphs Over Dodoma Jiji in a Convincing
-                        4-1 Victory
+                <h1 class="hero-title"> <a href="{{ url('post14')}}"> Late Drama at Mkwakwani as Azam FC draws with
+                        Coastal Union 1-1
                     </a></h1>
                 <div class="uk-column-1-2 w-line-separator inner-hero-tags">
                     <p>
@@ -43,7 +43,7 @@
 
                     <p>
                         <span class="tag-type-one">
-                            <a href="#"><i class="ri-time-line"></i>04/03/2024</a>
+                            <a href="#"><i class="ri-time-line"></i>13/03/2024 </a>
                         </span>
                     </p>
                 </div>
