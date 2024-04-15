@@ -6,7 +6,7 @@
             <p> MAJALIWA STADIUM</p>
             <div class="teams-inner-container">
                 <div class="team-disp-1">
-                    <img src="{{ asset('img/logo.png')}}" class="logo-card-item" alt="Team Logo" />
+                    <img src="{{ asset('img/teamlogos/namungo.png')}}" class="logo-card-item" alt="Team Logo" />
                 </div>
                 <div class="team-disp-1 results-section">
                     <div class="scr-card">
@@ -21,16 +21,16 @@
                     </div>
                 </div>
                 <div class="team-disp-1">
-                    <img src="{{ asset('img/teamlogos/namungo.png')}}" class="logo-card-item" alt="Team Logo" />
+                    <img src="{{ asset('img/logo.png')}}" class="logo-card-item" alt="Team Logo" />
                 </div>
             </div>
             <div class="fxture">
                 <span class="homteam">
-                    AZAM FC
+                    NAMUNGO FC
                 </span>
                 <span class="faintcol"> VS </span>
                 <span class="homteam">
-                    NAMUNGO FC
+                    AZAM FC
                 </span>
             </div>
             <!--             <a href="{{ url('match')}}" class="match-btn"><button class="uk-button uk-button-primary">Match Details</button></a>
