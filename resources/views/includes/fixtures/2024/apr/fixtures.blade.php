@@ -2,46 +2,47 @@
     <div class="uk-panel">
         <div class="inner-fixtures">
             <h3><img src="{{asset('img/league/nbc.png')}}" class="compt-logo"> NBC PREMIER LEAGUE </h3>
-            <p> TBA</p>
-            <p> AZAM COMPLEX, CHAMAZI</p>
+            <p> 14/04/2014</p>
+            <p> MAJALIWA STADIUM</p>
             <div class="teams-inner-container">
                 <div class="team-disp-1">
-                    <img src="{{ asset('img/teamlogos/namungo.png')}}" class="logo-card-item" alt="Team Logo" />
+                    <img src="{{ asset('img/logo.png')}}" class="logo-card-item" alt="Team Logo" />
                 </div>
-                <div class="team-disp-1">
+                <div class="team-disp-1 results-section">
                     <div class="scr-card">
                         <span class="hm-team-score">
-                            20
+                            0
                         </span>
                         :
                         <span class="hm-team-score">
-                            00
+                            2
                         </span>
 
                     </div>
                 </div>
                 <div class="team-disp-1">
-                    <img src="{{ asset('img/logo.png')}}" class="logo-card-item" alt="Team Logo" />
+                    <img src="{{ asset('img/teamlogos/namungo.png')}}" class="logo-card-item" alt="Team Logo" />
                 </div>
             </div>
             <div class="fxture">
                 <span class="homteam">
-                    NAMUNGO FC
+                    AZAM FC
                 </span>
                 <span class="faintcol"> VS </span>
                 <span class="homteam">
-                    AZAM FC
+                    NAMUNGO FC
                 </span>
             </div>
-<!--             <a href="{{ url('match')}}" class="match-btn"><button class="uk-button uk-button-primary">Match Details</button></a>
--->        </div>
+            <!--             <a href="{{ url('match')}}" class="match-btn"><button class="uk-button uk-button-primary">Match Details</button></a>
+-->
+        </div>
     </div>
 </li>
 <li>
     <div class="uk-panel">
         <div class="inner-fixtures">
             <h3><img src="{{asset('img/league/nbc.png')}}" class="compt-logo"> NBC PREMIER LEAGUE </h3>
-            <p> FRI 12/04/2024 </p>
+            <p> 16/04/2024 </p>
             <p> AZAM COMPLEX, CHAMAZI</p>
             <div class="teams-inner-container">
                 <div class="team-disp-1">
@@ -72,8 +73,9 @@
                     MASHUJAA FC
                 </span>
             </div>
-<!--             <a href="{{ url('match')}}" class="match-btn"><button class="uk-button uk-button-primary">Match Details</button></a>
--->        </div>
+            <!--             <a href="{{ url('match')}}" class="match-btn"><button class="uk-button uk-button-primary">Match Details</button></a>
+-->
+        </div>
     </div>
 </li>
 <li>
@@ -111,8 +113,9 @@
                     IHEFU FC
                 </span>
             </div>
-<!--             <a href="{{ url('match')}}" class="match-btn"><button class="uk-button uk-button-primary">Match Details</button></a>
--->        </div>
+            <!--             <a href="{{ url('match')}}" class="match-btn"><button class="uk-button uk-button-primary">Match Details</button></a>
+-->
+        </div>
     </div>
 </li>
 <li>
@@ -150,7 +153,8 @@
                     AZAM FC
                 </span>
             </div>
-<!--             <a href="{{ url('match')}}" class="match-btn"><button class="uk-button uk-button-primary">Match Details</button></a>
--->        </div>
+            <!--             <a href="{{ url('match')}}" class="match-btn"><button class="uk-button uk-button-primary">Match Details</button></a>
+-->
+        </div>
     </div>
 </li>

@@ -34,9 +34,9 @@
                     <div class="uk-column-1-2">
                         <!-- Away team logo -->
                         <p>
-                            <img src="{{ asset('img/teamlogos/yanga.png')}}" alt="team" />
+                            <img src="{{ asset('img/teamlogos/mashujaa.png')}}" alt="team" />
                         </p>
-                        <p>YANGA SC</p>
+                        <p>MASHUJAA FC</p>
                     </div>
                 </div>
             </div>
@@ -44,7 +44,7 @@
         <!-- Date Info -->
         <div class="uk-child-width-expand@s uk-text-center" uk-grid>
             <div class="uk-width-auto@m uk-align-center">
-                <p class="stadium-details"> 17/03/2024 <span class="boldfont">| MKAPA STADIUM </span> </p>
+                <p class="stadium-details"> 16/04/2024 <span class="boldfont">| AZAM COMPLEX </span> </p>
             </div>
         </div>
     </div>

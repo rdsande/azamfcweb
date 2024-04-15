@@ -2,6 +2,33 @@
     uk-scrollspy="cls: uk-animation-fade; target: .uk-card; delay: 100; repeat: false" uk-height-match>
     <!-- Post Item -->
     <div>
+        <a href="{{ url('post16')}}">
+            <div class="uk-card uk-card-default uk-card-body">
+                <div class="uk-text-center">
+                    <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
+                        <img loading="lazy" class="uk-transition-scale-up uk-transition-opaque"
+                            src="{{ asset('/img/latest/namungowin.jpg')}}" width="1800" height="1200" alt="">
+                    </div>
+                </div>
+                <div class="desc-container">
+                    <div class="toppart">
+                        <h3 class="uk-card-title"> AZAM FC Secures Thrilling Away Win Against Namungo
+                            FC!
+                        </h3>
+                    </div>
+                    <div class="bottompart">
+                        <div class="uk-column-1-2">
+                            <p>15/04/2024 | <span class="post-tag"><a href="/">News</a></span></p>
+
+                            <p class="text-right" id="sharetosocial"><i class="ri-share-line"></i></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+    <!-- Post Item -->
+    <div>
         <a href="{{ url('post15')}}">
             <div class="uk-card uk-card-default uk-card-body">
                 <div class="uk-text-center">
