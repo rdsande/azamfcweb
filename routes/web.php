@@ -638,6 +638,9 @@ Route::get('post15', function () {
 Route::get('post16', function () {
     return view('/posts/viewpost16');
 });
+Route::get('post17', function () {
+    return view('/posts/viewpost17');
+});
 //Latest News - View
 Route::get('latestnews', function () {
     return view('/pages/latestnews');
