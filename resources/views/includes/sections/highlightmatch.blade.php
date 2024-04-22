@@ -15,11 +15,11 @@
             <div class="uk-width-auto@m">
                 <div class="uk-card uk-card-default uk-card-body">
                     <div class="uk-column-1-2">
-                        <p>AZAM FC</p>
-                        <!-- Home team logo -->
+                        <!-- Away team logo -->
                         <p>
-                            <img src="{{ asset('img/logo.png')}}" alt="team" />
+                            <img src="{{ asset('img/teamlogos/mtibwa.png')}}" alt="team" />
                         </p>
+                        <p>MTIBWA SUGAR</p>
                     </div>
                 </div>
             </div>
@@ -32,11 +32,11 @@
             <div class="uk-width-auto@m">
                 <div class="uk-card uk-card-default uk-card-body">
                     <div class="uk-column-1-2">
-                        <!-- Away team logo -->
+                        <p>AZAM FC</p>
+                        <!-- Home team logo -->
                         <p>
-                            <img src="{{ asset('img/teamlogos/ihefu.png')}}" alt="team" />
+                            <img src="{{ asset('img/logo.png')}}" alt="team" />
                         </p>
-                        <p>IHEFU SC</p>
                     </div>
                 </div>
             </div>
@@ -44,7 +44,7 @@
         <!-- Date Info -->
         <div class="uk-child-width-expand@s uk-text-center" uk-grid>
             <div class="uk-width-auto@m uk-align-center">
-                <p class="stadium-details"> 27/04/2024 <span class="boldfont">| AZAM COMPLEX </span> </p>
+                <p class="stadium-details"> 07/05/2024 <span class="boldfont">| MANUNGU STADIUM </span> </p>
             </div>
         </div>
     </div>
