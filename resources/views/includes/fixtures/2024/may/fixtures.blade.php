@@ -46,14 +46,14 @@
                 <div class="team-disp-1">
                     <img src="{{ asset('img/logo.png')}}" class="logo-card-item" alt="Team Logo" />
                 </div>
-                <div class="team-disp-1">
+                <div class="team-disp-1 results-section">
                     <div class="scr-card">
                         <span class="hm-team-score">
-                            20
+                            0
                         </span>
                         :
                         <span class="hm-team-score">
-                            00
+                            3
                         </span>
 
                     </div>
@@ -80,8 +80,8 @@
     <div class="uk-panel">
         <div class="inner-fixtures">
             <h3><img src="{{asset('img/league/nbc.png')}}" class="compt-logo"> NBC PREMIER LEAGUE </h3>
-            <p> TBA </p>
-            <p> BENJAMIN MKAPA STADIUM</p>
+            <p> 12/05/2024</p>
+            <p> AZAM COMPLEX </p>
             <div class="teams-inner-container">
                 <div class="team-disp-1">
                     <img src="{{ asset('img/teamlogos/kmc.png')}}" class="logo-card-item" alt="Team Logo" />
