@@ -86,14 +86,14 @@
                 <div class="team-disp-1">
                     <img src="{{ asset('img/teamlogos/kmc.png')}}" class="logo-card-item" alt="Team Logo" />
                 </div>
-                <div class="team-disp-1">
+                <div class="team-disp-1 results-section">
                     <div class="scr-card">
                         <span class="hm-team-score">
-                            19
+                            1
                         </span>
                         :
                         <span class="hm-team-score">
-                            00
+                            2
                         </span>
 
                     </div>
@@ -120,8 +120,8 @@
     <div class="uk-panel">
         <div class="inner-fixtures">
             <h3><img src="{{asset('img/league/nbc.png')}}" class="compt-logo"> NBC PREMIER LEAGUE </h3>
-            <p> TBA </p>
-            <p> MBEYA</p>
+            <p> 20/05/2024 </p>
+            <p> ISAMUHYO STADIUM</p>
             <div class="teams-inner-container">
                 <div class="team-disp-1">
                     <img src="{{ asset('img/teamlogos/jkt.png')}}" class="logo-card-item" alt="Team Logo" />
@@ -129,7 +129,7 @@
                 <div class="team-disp-1">
                     <div class="scr-card">
                         <span class="hm-team-score">
-                            19
+                            16
                         </span>
                         :
                         <span class="hm-team-score">
