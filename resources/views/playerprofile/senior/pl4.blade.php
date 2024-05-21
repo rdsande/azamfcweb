@@ -74,7 +74,7 @@
                         <div class="uk-width-auto@m">
                             <img src="{{ asset('img/icons/time.svg')}}" class="icon-item" />
                         </div>
-                        <div class="uk-width-expand@m">
+                        <div class="uk-width-expand@m plyr-birthdate">
                             <span class="title-sm-main">BIRTHDATE<br /></span>
                             <span class="title-sm-tp">25.04.1999</span>
                         </div>

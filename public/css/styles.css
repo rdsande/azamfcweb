@@ -2764,3 +2764,7 @@ span.qtfooter {
 .games-tables table#table {
     width: 100vw !important;
 }
+
+.plyr-birthdate {
+    display: none;
+}

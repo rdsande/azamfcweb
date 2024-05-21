@@ -80,7 +80,7 @@
                         <div class="uk-width-auto@m">
                             <img src="{{ asset('img/icons/time.svg')}}" class="icon-item" />
                         </div>
-                        <div class="uk-width-expand@m">
+                        <div class="uk-width-expand@m plyr-birthdate">
                             <span class="title-sm-main">BIRTHDATE<br /></span>
                             <span class="title-sm-tp">07/11/2012 </span>
                         </div>
@@ -150,7 +150,8 @@
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
                                 <div>
-                                     His remarkable skills, combined with a keen understanding of the game, make him a standout player in every match.
+                                    His remarkable skills, combined with a keen understanding of the game, make him a
+                                    standout player in every match.
                                 </div>
                             </div>
                         </div>
@@ -161,9 +162,10 @@
                     <div class="uk-grid-small uk-child-width-expand@s uk-text-center" uk-grid>
                         <div>
                             <div class="uk-card uk-card-default uk-card-body">
-                            <div class="grid">
-                                <p> <strong>*</strong> Note: This is illustrative data, real data will be updated soon. Thanks </p>
-                            </div>
+                                <div class="grid">
+                                    <p> <strong>*</strong> Note: This is illustrative data, real data will be updated
+                                        soon. Thanks </p>
+                                </div>
                                 <div class="uk-child-width-expand@s uk-text-center stats-inner" uk-grid>
                                     <div>
                                         <div class="uk-card uk-card-default uk-card-body">
@@ -295,8 +297,9 @@
                         <h3> <i class="ri-clapperboard-line"></i> VIDEO SHOWREEL</h3>
                         <div class="uk-grid-small uk-child-width-expand@s uk-text-center" uk-grid>
                             <div uk-lightbox>
-                                <a class="uk-button uk-button-default" target="_blank" href="https://www.youtube.com/@azamfcofficial./videos"
-                                    data-caption="YouTube"> <i class="ri-play-circle-fill"></i> Play Video Reel</a>
+                                <a class="uk-button uk-button-default" target="_blank"
+                                    href="https://www.youtube.com/@azamfcofficial./videos" data-caption="YouTube"> <i
+                                        class="ri-play-circle-fill"></i> Play Video Reel</a>
                             </div>
                         </div>
                     </div>
@@ -304,7 +307,7 @@
             </div>
         </div>
     </div>
-     
+
 </div>
 
 <!-- Players Related -->
