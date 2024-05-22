@@ -17,9 +17,9 @@
                     <div class="uk-column-1-2">
                         <!-- Away team logo -->
                         <p>
-                            <img src="{{ asset('img/teamlogos/jkt.png')}}" alt="team" />
+                            <img src="{{ asset('img/logo.png')}}" alt="team" />
                         </p>
-                        <p>JKT TANZANIA</p>
+                        <p>AZAM FC</p>
                     </div>
                 </div>
             </div>
@@ -32,10 +32,10 @@
             <div class="uk-width-auto@m">
                 <div class="uk-card uk-card-default uk-card-body">
                     <div class="uk-column-1-2">
-                        <p>AZAM FC</p>
+                        <p>KAGERA SUGAR</p>
                         <!-- Home team logo -->
                         <p>
-                            <img src="{{ asset('img/logo.png')}}" alt="team" />
+                            <img src="{{ asset('img/teamlogos/kagera.png')}}" alt="team" />
                         </p>
                     </div>
                 </div>
@@ -44,7 +44,7 @@
         <!-- Date Info -->
         <div class="uk-child-width-expand@s uk-text-center" uk-grid>
             <div class="uk-width-auto@m uk-align-center">
-                <p class="stadium-details"> 20/05/2024 <span class="boldfont">| ISAMUHYO STADIUM </span> </p>
+                <p class="stadium-details"> 25/05/2024 <span class="boldfont">| AZAM COMPLEX </span> </p>
             </div>
         </div>
     </div>
