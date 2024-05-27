@@ -17,9 +17,9 @@
                     <div class="uk-column-1-2">
                         <!-- Away team logo -->
                         <p>
-                            <img src="{{ asset('img/logo.png')}}" alt="team" />
+                            <img src="{{ asset('img/teamlogos/geita.png')}}" alt="team" />
                         </p>
-                        <p>AZAM FC</p>
+                        <p>GEITA GOLD</p>
                     </div>
                 </div>
             </div>
@@ -32,10 +32,10 @@
             <div class="uk-width-auto@m">
                 <div class="uk-card uk-card-default uk-card-body">
                     <div class="uk-column-1-2">
-                        <p>KAGERA SUGAR</p>
+                        <p>AZAM FC</p>
                         <!-- Home team logo -->
                         <p>
-                            <img src="{{ asset('img/teamlogos/kagera.png')}}" alt="team" />
+                            <img src="{{ asset('img/logo.png')}}" alt="team" />
                         </p>
                     </div>
                 </div>
@@ -44,7 +44,7 @@
         <!-- Date Info -->
         <div class="uk-child-width-expand@s uk-text-center" uk-grid>
             <div class="uk-width-auto@m uk-align-center">
-                <p class="stadium-details"> 25/05/2024 <span class="boldfont">| AZAM COMPLEX </span> </p>
+                <p class="stadium-details"> 28/05/2024 <span class="boldfont">| Magogo Stadium </span> </p>
             </div>
         </div>
     </div>
