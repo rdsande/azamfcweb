@@ -204,14 +204,14 @@
                 <div class="team-disp-1">
                     <img src="{{ asset('img/teamlogos/geita.png')}}" class="logo-card-item" alt="Team Logo" />
                 </div>
-                <div class="team-disp-1">
+                <div class="team-disp-1 results-section">
                     <div class="scr-card">
                         <span class="hm-team-score">
-                            16
+                            0
                         </span>
                         :
                         <span class="hm-team-score">
-                            00
+                            2
                         </span>
 
                     </div>

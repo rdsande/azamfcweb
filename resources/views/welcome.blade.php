@@ -28,26 +28,27 @@
                         <div class="card-tag">
                             <div class="card-inner-teams-results">
                                 <div class="home-team-item">
-                                    <img src="{{ asset('img/logo.png')}}" class="logo-card-item" alt="Team Logo" />
-                                    <span class="team-name-card-item"> AZAM FC </span>
+                                    <img src="{{ asset('img/teamlogos/geita.png')}}" class="logo-card-item"
+                                        alt="Team Logo" />
+                                    <span class="team-name-card-item"> GEITA GOLD </span>
                                 </div>
                                 <div class="game-score">
                                     <span class="result-item">
-                                        <h3>5</h3>
+                                        <h3>0</h3>
                                     </span>
                                     <span class="result-item">
-                                        <h3>1</h3>
+                                        <h3>2</h3>
                                     </span>
                                 </div>
+
                                 <div class="home-team-item">
-                                    <img src="{{ asset('img/teamlogos/kagera.png')}}" class="logo-card-item"
-                                        alt="Team Logo" />
-                                    <span class="team-name-card-item"> KAGERA SUGAR</span>
+                                    <img src="{{ asset('img/logo.png')}}" class="logo-card-item" alt="Team Logo" />
+                                    <span class="team-name-card-item"> AZAM FC</span>
                                 </div>
                             </div>
                             <div class="card-inner">
                                 <h4 class="comp-label"> NBC PREMIER LEAGUE </h4>
-                                <span class="date"> <i class="ri-time-line"></i> 25/05/2024 | AZAM COMPLEX
+                                <span class="date"> <i class="ri-time-line"></i> 28/05/2024 | Magogo Stadium
                                 </span>
                             </div>
                         </div>
@@ -101,21 +102,21 @@
                         <div class="card-tag">
                             <div class="card-inner-teams-results">
                                 <div class="home-team-item">
-                                    <img src="{{ asset('img/teamlogos/geita.png')}}" class="logo-card-item"
-                                        alt="Team Logo" />
-                                    <span class="team-name-card-item"> GEITA GOLD </span>
+                                    <img src="{{ asset('img/logo.png')}}" class="logo-card-item" alt="Team Logo" />
+                                    <span class="team-name-card-item"> AZAM FC </span>
                                 </div>
                                 <div class="game-time">
                                     <h3>16:00</h3>
                                 </div>
                                 <div class="home-team-item">
-                                    <img src="{{ asset('img/logo.png')}}" class="logo-card-item" alt="Team Logo" />
-                                    <span class="team-name-card-item"> AZAM FC</span>
+                                    <img src="{{ asset('img/teamlogos/yanga.png')}}" class="logo-card-item"
+                                        alt="Team Logo" />
+                                    <span class="team-name-card-item"> YANGA</span>
                                 </div>
                             </div>
                             <div class="card-inner">
-                                <h4 class="comp-label"> NBC PREMIER LEAGUE </h4>
-                                <span class="date"> <i class="ri-time-line"></i> 28/05/2024 | Magogo Stadium
+                                <h4 class="comp-label"> CRDB CONFEDERATION CUP </h4>
+                                <span class="date"> <i class="ri-time-line"></i> JUNE 2, 2024 | NEW AMAN STADIUM
                                 </span>
                             </div>
                         </div>
