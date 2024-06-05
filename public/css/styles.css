@@ -2768,3 +2768,7 @@ span.qtfooter {
 .plyr-birthdate {
     display: none;
 }
+
+span.pens {
+    color: white;
+}

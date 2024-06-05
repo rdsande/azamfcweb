@@ -10,13 +10,13 @@
             </div>
         </div>
         <!-- Teams -->
-        <div class="uk-child-width-expand@s uk-text-center" uk-grid>
-            <!-- Home team -->
-            <div class="uk-width-auto@m">
+        <!-- <div class="uk-child-width-expand@s uk-text-center" uk-grid> -->
+        <!-- Home team -->
+        <!-- <div class="uk-width-auto@m">
                 <div class="uk-card uk-card-default uk-card-body">
-                    <div class="uk-column-1-2">
-                        <!-- Away team logo -->
-                        <p>
+                    <div class="uk-column-1-2"> -->
+        <!-- Away team logo -->
+        <!-- <p>
                             <img src="{{ asset('img/logo.png')}}" alt="team" />
                         </p>
                         <p>AZAM FC</p>
@@ -27,25 +27,25 @@
                 <div class="uk-card uk-card-default uk-card-body">
                     <span> VS </span>
                 </div>
-            </div>
-            <!-- Away team -->
-            <div class="uk-width-auto@m">
+            </div> -->
+        <!-- Away team -->
+        <!-- <div class="uk-width-auto@m">
                 <div class="uk-card uk-card-default uk-card-body">
                     <div class="uk-column-1-2">
-                        <p>YANGA SC</p>
-                        <!-- Home team logo -->
-                        <p>
+                        <p>YANGA SC</p> -->
+        <!-- Home team logo -->
+        <!-- <p>
                             <img src="{{ asset('img/teamlogos/yanga.png')}}" alt="team" />
                         </p>
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Date Info -->
-        <div class="uk-child-width-expand@s uk-text-center" uk-grid>
+        <!-- <div class="uk-child-width-expand@s uk-text-center" uk-grid>
             <div class="uk-width-auto@m uk-align-center">
                 <p class="stadium-details"> - <span class="boldfont">JUNE 2, 2024| NEW AMAN STADIUM </span> </p>
             </div>
-        </div>
+        </div> -->
     </div>
 </div>
