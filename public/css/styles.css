@@ -2772,3 +2772,13 @@ span.qtfooter {
 span.pens {
     color: white;
 }
+
+.ytlink {
+    background: red !important;
+    color: white !important;
+    border-radius: .3rem;
+}
+
+.ytlink {
+    line-height: inherit;
+}
