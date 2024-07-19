@@ -9,12 +9,15 @@
 
     <!-- SEO Meta Tags -->
     <title>AZAM FC | Official Website of Azam Football Club | Tanzania Premier League</title>
-    <meta name="description" content="Welcome to the official website of AZAM FC, a renowned football club in Tanzania competing in the prestigious Tanzania Premier League. Stay updated with the latest news, match schedules, player profiles, and exclusive content related to AZAM FC's journey towards sporting excellence and success on the national and international stages.">
-    <meta name="keywords" content="AZAM FC, Azam Football Club, Azam Football Club Academy, AZAMFC, AZAMFC Academy, Tanzania Premier League, Tanzanian Football, Soccer, Football Club, Sports, Matches, Players, Team, News, Updates, Official Website, Championships, Tournaments, Success, Excellence, Sporting Events, Football Community, Tanzania Football, East African Football.">
+    <meta name="description"
+        content="Welcome to the official website of AZAM FC, a renowned football club in Tanzania competing in the prestigious Tanzania Premier League. Stay updated with the latest news, match schedules, player profiles, and exclusive content related to AZAM FC's journey towards sporting excellence and success on the national and international stages.">
+    <meta name="keywords"
+        content="AZAM FC, Azam Football Club, Azam Football Club Academy, AZAMFC, AZAMFC Academy, Tanzania Premier League, Tanzanian Football, Soccer, Football Club, Sports, Matches, Players, Team, News, Updates, Official Website, Championships, Tournaments, Success, Excellence, Sporting Events, Football Community, Tanzania Football, East African Football.">
     <meta name="author" content="Rodgers Sande - Tekleo Digital, Tanzania">
     <!-- Open Graph / Facebook -->
     <meta property="og:title" content="Azam Football Club">
-    <meta property="og:description" content="Welcome to the official website of AZAM FC, a renowned football club in Tanzania competing in the prestigious Tanzania Premier League. Stay updated with the latest news, match schedules, player profiles, and exclusive content related to AZAM FC's journey towards sporting excellence and success on the national and international stages.">
+    <meta property="og:description"
+        content="Welcome to the official website of AZAM FC, a renowned football club in Tanzania competing in the prestigious Tanzania Premier League. Stay updated with the latest news, match schedules, player profiles, and exclusive content related to AZAM FC's journey towards sporting excellence and success on the national and international stages.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.azamfc.co.tz">
     <meta property="og:image" content="{{ asset('img/azamfc-smcover.jpg')}}">
@@ -22,7 +25,8 @@
     <!-- Twitter -->
     <meta name="twitter:card" content="Azam Football Club">
     <meta name="twitter:title" content="Azam FC">
-    <meta name="twitter:description" content="Welcome to the official website of AZAM FC, a renowned football club in Tanzania competing in the prestigious Tanzania Premier League. Stay updated with the latest news, match schedules, player profiles, and exclusive content related to AZAM FC's journey towards sporting excellence and success on the national and international stages.">
+    <meta name="twitter:description"
+        content="Welcome to the official website of AZAM FC, a renowned football club in Tanzania competing in the prestigious Tanzania Premier League. Stay updated with the latest news, match schedules, player profiles, and exclusive content related to AZAM FC's journey towards sporting excellence and success on the national and international stages.">
     <meta name="twitter:image" content="{{ asset('img/azamfc-smcover.jpg')}}">
     <meta name="twitter:creator" content="@azamfc">
 
@@ -45,8 +49,12 @@
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;600;800;900&family=Work+Sans:ital,wght@0,300;0,400;0,600;0,800;0,900;1,300;1,600;1,800;1,900&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;600;800;900&family=Work+Sans:ital,wght@0,300;0,400;0,600;0,800;0,900;1,300;1,600;1,800;1,900&display=swap"
+        rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100..900&display=swap"
+        rel="stylesheet">
 
     @stack('scripts')
 
@@ -126,7 +134,8 @@
                                         </div>
                                     </li> -->
                                     <li><a href="#">
-                                            <span class="nav-item-round" type="button" uk-toggle="target: #offcanvas-overlay">
+                                            <span class="nav-item-round" type="button"
+                                                uk-toggle="target: #offcanvas-overlay">
                                                 <i class="ri-menu-line"></i>
                                             </span>
                                         </a></li>
@@ -146,10 +155,14 @@
                                                 to its current stadium, Azam Complex Chamazi, in 2010.</p>
 
                                             <div>
-                                                <a href="" class="uk-icon-button uk-margin-small-right" uk-icon=""><i class="ri-facebook-circle-line"></i></a>
-                                                <a href="" class="uk-icon-button  uk-margin-small-right" uk-icon=""> <i class="ri-twitter-line"></i></a>
-                                                <a href="" class="uk-icon-button" uk-toggle="target: #ytselect" uk-icon=""> <i class="ri-youtube-line"></i> </a>
-                                                <a href="" class="uk-icon-button" uk-icon=""><i class="ri-linkedin-box-line"></i></a>
+                                                <a href="" class="uk-icon-button uk-margin-small-right" uk-icon=""><i
+                                                        class="ri-facebook-circle-line"></i></a>
+                                                <a href="" class="uk-icon-button  uk-margin-small-right" uk-icon=""> <i
+                                                        class="ri-twitter-line"></i></a>
+                                                <a href="" class="uk-icon-button" uk-toggle="target: #ytselect"
+                                                    uk-icon=""> <i class="ri-youtube-line"></i> </a>
+                                                <a href="" class="uk-icon-button" uk-icon=""><i
+                                                        class="ri-linkedin-box-line"></i></a>
                                             </div>
                                         </div>
                                 </ul>
@@ -270,7 +283,8 @@
             </div>
         </div>
         <div class="uk-section full100">
-            <div class="uk-grid-collapse uk-child-width-expand@s uk-text-center uk-margin-large-top uk-grid-match footer-id" uk-grid>
+            <div class="uk-grid-collapse uk-child-width-expand@s uk-text-center uk-margin-large-top uk-grid-match footer-id"
+                uk-grid>
                 <div>
                     <div class="uk-bg-highlight uk-padding">
                         <div>
@@ -285,7 +299,8 @@
                         <span class="ftr-copy"> &copy; Azam Football Club, 2024 </span>
 
                         <div class="logo-bg-footer">
-                            <a target="_blank" href="https://bakhresa.com"><img src="{{ asset('img/bglogo.svg')}}" alt="A division of Bakhresa Group Logo" title="Bakhresa Group Logo" /></a>
+                            <a target="_blank" href="https://bakhresa.com"><img src="{{ asset('img/bglogo.svg')}}"
+                                    alt="A division of Bakhresa Group Logo" title="Bakhresa Group Logo" /></a>
                         </div>
                     </div>
                 </div>
@@ -308,7 +323,8 @@
                                             <li> P.O BOX 2517, Dar es salaam </li>
                                             <li> <i class="ri-phone-line"></i> <a href="tel:+255717088880">+255 717 088
                                                     880</a> </li>
-                                            <li> <i class="ri-mail-line"></i> <a href="mailto:info@azamfc.co.tz">info@azamfc.co.tz</a> </li>
+                                            <li> <i class="ri-mail-line"></i> <a
+                                                    href="mailto:info@azamfc.co.tz">info@azamfc.co.tz</a> </li>
                                         </ul>
                                     </div>
                                 </div>
@@ -316,12 +332,17 @@
                             <div class="uk-grid uk-align-center">
                                 <div class="socialmediacontainer">
                                     <ul>
-                                        <li><a href="https://instagram.com/azamfcofficial" target="_blank"> <i class="ri-instagram-line"></i> </a></li>
-                                        <li><a href="https://twitter.com/azamfc" target="_blank"> <i class="ri-twitter-line"></i> </a></li>
-                                        <li><a href="https://facebook.com/azamfc" target="_blank"> <i class="ri-facebook-circle-line"></i> </a></li>
+                                        <li><a href="https://instagram.com/azamfcofficial" target="_blank"> <i
+                                                    class="ri-instagram-line"></i> </a></li>
+                                        <li><a href="https://twitter.com/azamfc" target="_blank"> <i
+                                                    class="ri-twitter-line"></i> </a></li>
+                                        <li><a href="https://facebook.com/azamfc" target="_blank"> <i
+                                                    class="ri-facebook-circle-line"></i> </a></li>
                                         <li><a uk-toggle="target: #ytselect"> <i class="ri-youtube-line"></i> </a></li>
-                                        <li><a href="https://tiktok.com/@azamfcofficial" target="_blank"><i class="ri-tiktok-line"></i></a></li>
-                                        <li><a href="https://whatsapp.com/channel/0029Va8qaVnAu3aVWGTTd72a" target="_blank"> <i class="ri-whatsapp-line"></i></a></li>
+                                        <li><a href="https://tiktok.com/@azamfcofficial" target="_blank"><i
+                                                    class="ri-tiktok-line"></i></a></li>
+                                        <li><a href="https://whatsapp.com/channel/0029Va8qaVnAu3aVWGTTd72a"
+                                                target="_blank"> <i class="ri-whatsapp-line"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -338,7 +359,8 @@
         <div class="uk-modal-dialog uk-modal-body">
             <div class="uk-child-width-1-2@s uk-light" uk-grid>
                 <div>
-                    <div class="uk-background-cover uk-height-medium uk-panel uk-flex uk-flex-center uk-flex-middle" style="background-image: url(img/latest/afcmikoani.jpg);">
+                    <div class="uk-background-cover uk-height-medium uk-panel uk-flex uk-flex-center uk-flex-middle"
+                        style="background-image: url(img/latest/afcmikoani.jpg);">
                         <p class="uk-h4">
                             <a href="https://www.youtube.com/@azamfcofficial.">
                                 <button class="uk-button uk-button-primary uk-button-large ytlink">
@@ -349,7 +371,8 @@
                     </div>
                 </div>
                 <div>
-                    <div class="uk-background-cover uk-background-muted uk-height-medium uk-panel uk-flex uk-flex-center uk-flex-middle" style="background-image: url(img/latest/u17.jpg);">
+                    <div class="uk-background-cover uk-background-muted uk-height-medium uk-panel uk-flex uk-flex-center uk-flex-middle"
+                        style="background-image: url(img/latest/u17.jpg);">
                         <p class="uk-h4">
                             <a href="https://www.youtube.com/@azamfootballyouthdevelopme5884">
                                 <button class="uk-button uk-button-primary uk-button-large ytlink">

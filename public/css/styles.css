@@ -6,10 +6,10 @@
     --secondary: #ECF3FF;
     --text-offwhite: rgb(255, 255, 240);
     --alternative: #D39037;
-    --font-headings: 'Barlow', sans-serif;
+    --font-headings: 'Big Shoulders Display', sans-serif;;
     --font-body: 'Barlow', sans-serif;
-    --alt-font: 'Redzone (Indoor Football League)', sans-serif;
-    --alt-font1: 'VTF Redzone Classic', sans-serif;
+    --alt-font: 'Big Shoulders Display', sans-serif;
+    --alt-font1: 'Big Shoulders Display', sans-serif;
     --gradient-one: linear-gradient(180deg, rgba(0, 90,174,1) 6%, rgb(50, 79, 159) 80%);
     --gradient-two: linear-gradient(0deg, rgba(0, 90,174,1) 10%, rgba(0, 90,174, 20%), rgba(0, 90,174,0) 75%);
     --gradient-three: linear-gradient(0deg, rgba(0, 90,174,1) 10%, rgba(0, 90,174, 60%), rgba(0, 90,174,0) 75%);
@@ -270,7 +270,7 @@ ul.uk-navbar-nav button label {
 }
 
 .nav-middle-right .uk-navbar-nav a, .nav-middle-left .uk-navbar-nav a {
-    font-weight: normal;
+    font-weight: 600;
     font-family: var(--alt-font);
     font-size: 1.3rem;
     text-transform: uppercase;
@@ -353,7 +353,8 @@ white-space: nowrap;
 }
 
 .afc-slide {
-  flex: 0 0 50%;
+  /* flex: 0 0 50%; */
+  flex: 0 0 100%;
   height: 25rem; 
   background-color: #ccc;
   display: flex;
@@ -413,7 +414,7 @@ span.hero-meta {
 h1.hero-title, h1.hero-title a {
     font-size: 30px;
     text-align: center;
-    font-weight: normal;
+    font-weight: 900;
     color: var(--secondary);
     font-family: var(--alt-font1);
     text-transform: uppercase;
@@ -424,6 +425,7 @@ h1.hero-title, h1.hero-title a {
      .3px .3px 0 var(--primary); */
      text-shadow: 1px 1px 2px var(--primary-shade-two);
      transition: all 300ms;
+     text-decoration: none;
 }
 
 .afc-slide:hover h1.hero-title {
@@ -1108,11 +1110,13 @@ span.plyr-number {
     font-family: var(--alt-font);
     font-size: 1.2rem;
     text-transform: uppercase;
+    font-weight: 600;
 }
 
 .highlight-score-section .uk-card span {
     font-family: var(--alt-font);
     text-transform: uppercase;
+    font-weight: 600;
 }
 
 .highlight-score-section img {
@@ -1647,6 +1651,7 @@ a.uk-icon.uk-totop:hover {
     font-size: 1.5rem;
     font-family: var(--alt-font);
     text-transform: uppercase;
+    font-weight: 600;
 }
 
 .stats-inner .widget-header-wrapper::after {
@@ -1805,7 +1810,8 @@ h1.page-title {
     width: 60%;
     text-align: center;
     color: white;
-    font-weight: normal;
+    text-transform: uppercase;
+    font-weight: 900;
     font-size: 3.3rem;
 }
 
@@ -1962,6 +1968,7 @@ span.heading-title {
     font-family: var(--alt-font);
     text-transform: uppercase;
     border-radius: 0.4rem;
+    font-weight: 600;
 }
 
 .games-tables iframe {
@@ -2007,6 +2014,7 @@ span.statmainitem {
     font-size: 1.5rem;
     justify-content: center;
     margin-bottom: 1rem;
+    font-weight: 600;
 }
 
 .bg-primary-two .uk-card {
@@ -2209,6 +2217,7 @@ ul.uk-tab.sidebar {
     font-family: var(--alt-font);
     text-transform: uppercase;
     font-size: 2rem !important;
+    font-weight: 600;
 }
 
 .ftr-contact-details a {
@@ -2527,6 +2536,7 @@ h4.text-light.txt-white {
     font-family: var(--alt-font);
     text-transform: uppercase;
     font-size: 1.7rem;
+    font-weight: 600;
 }
 
 span.num-first {

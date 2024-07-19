@@ -21,11 +21,11 @@
                         <div class="widget-header-wrapper ">
                             <div class="widget-header-wrapper__header">
                                 <header class="widget-header  ">
-                                    <h2 class="widget-header__title"> Latest Match </h2>
+                                    <h2 class="widget-header__title"> PRE-SEASON </h2>
                                 </header>
                             </div>
                         </div>
-                        <div class="card-tag">
+                        <!-- <div class="card-tag">
                             <div class="card-inner-teams-results">
                                 <div class="home-team-item">
                                     <img src="{{ asset('img/logo.png')}}" class="logo-card-item" alt="Team Logo" />
@@ -50,7 +50,7 @@
                                 <span class="date"> <i class="ri-time-line"></i> JUNE 2, 2024 | NEW AMAN STADIUM
                                 </span>
                             </div>
-                        </div>
+                        </div> -->
 
                     </div>
                 </div>
@@ -90,7 +90,7 @@
                     </div>
                 </div> -->
                 <!-- Match Card -- Next Match -->
-                <div class="match-home-card">
+                <!-- <div class="match-home-card">
                     <div class="uk-card uk-card-default uk-card-body">
                         <div class="widget-header-wrapper ">
                             <div class="widget-header-wrapper__header">
@@ -127,7 +127,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
 
             <!-- Fixtures End -->
