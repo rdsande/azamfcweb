@@ -4,8 +4,7 @@
             <div class="uk-card uk-card-default uk-card-body uk-animation-toggle" tabindex="0">
                 <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
                     <span class="bgtop"></span>
-                    <img loading="lazy" class="uk-transition-scale-up uk-transition-opaque"
-                        src="{{ asset('/img/players/profiles/player9.png')}}" width="1800" height="1200" alt="">
+                    <img loading="lazy" class="uk-transition-scale-up uk-transition-opaque" src="{{ asset('/img/players/profiles/player9.png')}}" width="1800" height="1200" alt="">
                 </div>
                 <div class="player-card-details uk-animation-slide-bottom-medium">
                     <div class="uk-child-width-expand@s uk-text-center" uk-grid>
@@ -31,8 +30,7 @@
             <div class="uk-card uk-card-default uk-card-body uk-animation-toggle" tabindex="0">
                 <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
                     <span class="bgtop"></span>
-                    <img loading="lazy" class="uk-transition-scale-up uk-transition-opaque"
-                        src="{{ asset('/img/players/profiles/player12.png')}}" width="1800" height="1200" alt="">
+                    <img loading="lazy" class="uk-transition-scale-up uk-transition-opaque" src="{{ asset('/img/players/profiles/player12.png')}}" width="1800" height="1200" alt="">
                 </div>
                 <div class="player-card-details uk-animation-slide-bottom-medium">
                     <div class="uk-child-width-expand@s uk-text-center" uk-grid>
@@ -59,8 +57,7 @@
             <div class="uk-card uk-card-default uk-card-body uk-animation-toggle" tabindex="0">
                 <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
                     <span class="bgtop"></span>
-                    <img loading="lazy" class="uk-transition-scale-up uk-transition-opaque"
-                        src="{{ asset('/img/players/profiles/player19.png')}}" width="1800" height="1200" alt="">
+                    <img loading="lazy" class="uk-transition-scale-up uk-transition-opaque" src="{{ asset('/img/players/profiles/player19.png')}}" width="1800" height="1200" alt="">
                 </div>
                 <div class="player-card-details uk-animation-slide-bottom-medium">
                     <div class="uk-child-width-expand@s uk-text-center" uk-grid>
@@ -87,8 +84,7 @@
             <div class="uk-card uk-card-default uk-card-body uk-animation-toggle" tabindex="0">
                 <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
                     <span class="bgtop"></span>
-                    <img loading="lazy" class="uk-transition-scale-up uk-transition-opaque"
-                        src="{{ asset('/img/players/profiles/player4.png')}}" width="1800" height="1200" alt="">
+                    <img loading="lazy" class="uk-transition-scale-up uk-transition-opaque" src="{{ asset('/img/players/profiles/player4.png')}}" width="1800" height="1200" alt="">
                 </div>
                 <div class="player-card-details uk-animation-slide-bottom-medium">
                     <div class="uk-child-width-expand@s uk-text-center" uk-grid>
@@ -114,8 +110,7 @@
             <div class="uk-card uk-card-default uk-card-body uk-animation-toggle" tabindex="0">
                 <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
                     <span class="bgtop"></span>
-                    <img loading="lazy" class="uk-transition-scale-up uk-transition-opaque"
-                        src="{{ asset('/img/players/profiles/player22.png')}}" width="1800" height="1200" alt="">
+                    <img loading="lazy" class="uk-transition-scale-up uk-transition-opaque" src="{{ asset('/img/players/profiles/player22.png')}}" width="1800" height="1200" alt="">
                 </div>
                 <div class="player-card-details uk-animation-slide-bottom-medium">
                     <div class="uk-child-width-expand@s uk-text-center" uk-grid>
@@ -135,14 +130,13 @@
         </div>
     </a>
 </li>
-<li>
+<!-- <li>
     <a href="{{url('player21')}}">
         <div>
             <div class="uk-card uk-card-default uk-card-body uk-animation-toggle" tabindex="0">
                 <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
                     <span class="bgtop"></span>
-                    <img loading="lazy" class="uk-transition-scale-up uk-transition-opaque"
-                        src="{{ asset('/img/players/profiles/player20.png')}}" width="1800" height="1200" alt="">
+                    <img loading="lazy" class="uk-transition-scale-up uk-transition-opaque" src="{{ asset('/img/players/profiles/player20.png')}}" width="1800" height="1200" alt="">
                 </div>
                 <div class="player-card-details uk-animation-slide-bottom-medium">
                     <div class="uk-child-width-expand@s uk-text-center" uk-grid>
@@ -161,15 +155,14 @@
             </div>
         </div>
     </a>
-</li>
-<li>
+</li> -->
+<!-- <li>
     <a href="{{url('player22')}}">
         <div>
             <div class="uk-card uk-card-default uk-card-body uk-animation-toggle" tabindex="0">
                 <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
                     <span class="bgtop"></span>
-                    <img loading="lazy" class="uk-transition-scale-up uk-transition-opaque"
-                        src="{{ asset('/img/players/profiles/player3.png')}}" width="1800" height="1200" alt="">
+                    <img loading="lazy" class="uk-transition-scale-up uk-transition-opaque" src="{{ asset('/img/players/profiles/player3.png')}}" width="1800" height="1200" alt="">
                 </div>
                 <div class="player-card-details uk-animation-slide-bottom-medium">
                     <div class="uk-child-width-expand@s uk-text-center" uk-grid>
@@ -188,8 +181,8 @@
             </div>
         </div>
     </a>
-</li>
-<li>
+</li> -->
+<!-- <li>
     <a href="{{url('player23')}}">
         <div>
             <div class="uk-card uk-card-default uk-card-body uk-animation-toggle" tabindex="0">
@@ -215,7 +208,7 @@
             </div>
         </div>
     </a>
-</li>
+</li> -->
 <!-- <li>
     <a href="{{url('player24')}}">
         <div>
@@ -249,8 +242,7 @@
             <div class="uk-card uk-card-default uk-card-body uk-animation-toggle" tabindex="0">
                 <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
                     <span class="bgtop"></span>
-                    <img loading="lazy" class="uk-transition-scale-up uk-transition-opaque"
-                        src="{{ asset('/img/players/profiles/default.png')}}" width="1800" height="1200" alt="">
+                    <img loading="lazy" class="uk-transition-scale-up uk-transition-opaque" src="{{ asset('/img/players/profiles/default.png')}}" width="1800" height="1200" alt="">
                 </div>
                 <div class="player-card-details uk-animation-slide-bottom-medium">
                     <div class="uk-child-width-expand@s uk-text-center" uk-grid>
