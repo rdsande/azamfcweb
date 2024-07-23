@@ -3,8 +3,7 @@
 @section('content')
 <!-- Breadcrumb -->
 <div class="page-brdc">
-    <div class="uk-background-cover uk-height-medium uk-panel uk-flex uk-flex-center uk-flex-middle"
-        style="background-image: url(img/breadcrumbs/image2.png);">
+    <div class="uk-background-cover uk-height-medium uk-panel uk-flex uk-flex-center uk-flex-middle" style="background-image: url(img/breadcrumbs/image2.png);">
         <h1 class="page-title"> ABOUT AZAMFC </h1>
     </div>
 </div>
@@ -18,31 +17,23 @@
                     <div class="uk-position-relative uk-margin-medium js-example about-vertical">
 
                         <ul uk-tab="swiping: false" role="tablist" class="uk-tab sidebar">
-                            <li class="uk-active" role="presentation"><a href="#" aria-selected="true" role="tab"
-                                    id="uk-tab-5-tab-0" aria-controls="uk-tab-5-tabpanel-0">About</a></li>
-                            <li role="presentation" class=""><a href="#" aria-selected="false" role="tab"
-                                    id="uk-tab-5-tab-1" aria-controls="uk-tab-5-tabpanel-1" tabindex="-1">Mission &
+                            <li class="uk-active" role="presentation"><a href="#" aria-selected="true" role="tab" id="uk-tab-5-tab-0" aria-controls="uk-tab-5-tabpanel-0">About</a></li>
+                            <li role="presentation" class=""><a href="#" aria-selected="false" role="tab" id="uk-tab-5-tab-1" aria-controls="uk-tab-5-tabpanel-1" tabindex="-1">Mission &
                                     Vision</a></li>
-                            <li role="presentation" class=""><a href="#" aria-selected="false" role="tab"
-                                    id="uk-tab-5-tab-2" aria-controls="uk-tab-5-tabpanel-2" tabindex="-1">Club
+                            <li role="presentation" class=""><a href="#" aria-selected="false" role="tab" id="uk-tab-5-tab-2" aria-controls="uk-tab-5-tabpanel-2" tabindex="-1">Club
                                     History</a></li>
-                            <li role="presentation" class=""><a href="#" aria-selected="false" role="tab"
-                                    id="uk-tab-5-tab-3" aria-controls="uk-tab-5-tabpanel-3" tabindex="-1">Club Achievements</a></li>
-                            <li role="presentation" class=""><a href="#" aria-selected="false" role="tab"
-                                    id="uk-tab-5-tab-5" aria-controls="uk-tab-5-tabpanel-5" tabindex="-1">Azam
+                            <li role="presentation" class=""><a href="#" aria-selected="false" role="tab" id="uk-tab-5-tab-3" aria-controls="uk-tab-5-tabpanel-3" tabindex="-1">Club Achievements</a></li>
+                            <li role="presentation" class=""><a href="#" aria-selected="false" role="tab" id="uk-tab-5-tab-5" aria-controls="uk-tab-5-tabpanel-5" tabindex="-1">Azam
                                     Complex</a></li>
-                            <li role="presentation" class=""><a href="#" aria-selected="false" role="tab"
-                                    id="uk-tab-5-tab-6" aria-controls="uk-tab-5-tabpanel-6" tabindex="-1">Senior
+                            <li role="presentation" class=""><a href="#" aria-selected="false" role="tab" id="uk-tab-5-tab-6" aria-controls="uk-tab-5-tabpanel-6" tabindex="-1">Senior
                                     Management</a></li>
-                            <li role="presentation" class=""><a href="#" aria-selected="false" role="tab"
-                                    id="uk-tab-5-tab-7" aria-controls="uk-tab-5-tabpanel-7" tabindex="-1">Azam FC
+                            <li role="presentation" class=""><a href="#" aria-selected="false" role="tab" id="uk-tab-5-tab-7" aria-controls="uk-tab-5-tabpanel-7" tabindex="-1">Azam FC
                                     Board</a></li>
                         </ul>
 
-                        <ul class="uk-switcher uk-margin sidemain uk-margin-large-bottom"" role=" presentation">
+                        <ul class="uk-switcher uk-margin sidemain uk-margin-large-bottom" role=" presentation">
                             <!-- About -->
-                            <li class="uk-active" id="uk-tab-5-tabpanel-0" role="tabpanel"
-                                aria-labelledby="uk-tab-5-tab-0">
+                            <li class="uk-active" id="uk-tab-5-tabpanel-0" role="tabpanel" aria-labelledby="uk-tab-5-tab-0">
                                 <!-- About -->
                                 <div class="uk-grid-small uk-child-width-expand@s" uk-grid>
                                     <div class="uk-container uk-container-medium">
@@ -113,8 +104,7 @@
                                             </div>
                                         </div>
                                     </div> -->
-                                    <img src="{{asset('img/unbeaten.jpg')}}" class="banner-inner-one"
-                                        alt="unbeaten 2013/14" title="unbeaten champions" />
+                                    <img src="{{asset('img/unbeaten.jpg')}}" class="banner-inner-one" alt="unbeaten 2013/14" title="unbeaten champions" />
                                 </div>
 
                                 <div class="uk-grid-small uk-child-width-expand@s" uk-grid>
@@ -174,8 +164,7 @@
                                     <h1 class="headings-normal uk-text-center"> OUR VALUES </h1>
                                 </div>
 
-                                <div class="uk-grid-small uk-child-width-expand@s uk-text-center uk-padding-small values-icons"
-                                    uk-grid>
+                                <div class="uk-grid-small uk-child-width-expand@s uk-text-center uk-padding-small values-icons" uk-grid>
                                     <div>
                                         <div class="uk-card uk-card-default uk-card-body">
                                             <i class="ri-hand-heart-line"></i>
@@ -235,8 +224,7 @@
                                             <h4 class="uk-heading-line uk-text-left uk-padding">
 
                                                 <span>
-                                                    <select id="floorplanSelect" class="uk-select"
-                                                        onchange="changeTab()">
+                                                    <select id="floorplanSelect" class="uk-select" onchange="changeTab()">
                                                         <option>Select Team to view</option>
                                                         <option value="tab-pane1">Senior Team</option>
                                                         <option value="tab-pane2">Under 13</option>
@@ -248,8 +236,7 @@
                                         </span>
                                         </h4>
                                     </div>
-                                    <div
-                                        class="uk-container uk-container-medium uk-width-1-1 inner-afc-cont tab-content">
+                                    <div class="uk-container uk-container-medium uk-width-1-1 inner-afc-cont tab-content">
                                         <div role="tabpanel" class="tab-pane fade active in" id="tab-pane1">
                                             @include('includes/about.trophies')
                                         </div>
@@ -269,17 +256,17 @@
                                 </div>
 
                                 <script type="text/javascript">
-                                function changeTab() {
-                                    var selectValue = document.getElementById('floorplanSelect').value;
-                                    var tabs = document.querySelectorAll('.tab-pane');
+                                    function changeTab() {
+                                        var selectValue = document.getElementById('floorplanSelect').value;
+                                        var tabs = document.querySelectorAll('.tab-pane');
 
-                                    tabs.forEach(function(tab) {
-                                        tab.classList.remove('active', 'in');
-                                    });
+                                        tabs.forEach(function(tab) {
+                                            tab.classList.remove('active', 'in');
+                                        });
 
-                                    var selectedTab = document.getElementById(selectValue);
-                                    selectedTab.classList.add('active', 'in');
-                                }
+                                        var selectedTab = document.getElementById(selectValue);
+                                        selectedTab.classList.add('active', 'in');
+                                    }
                                 </script>
 
                             </li>

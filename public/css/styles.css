@@ -2792,3 +2792,29 @@ span.pens {
 .ytlink {
     line-height: inherit;
 }
+
+.bg-blue {
+    background-color: var(--primary);
+    color: var(--secondary);
+}
+
+.afc-cards {
+    background: var(--gradient-one);
+    box-shadow: var(--shadow-one);
+}
+
+.card-cost h1 {
+    background: var(--primary);
+    color: white;
+    padding: 15px;
+}
+
+span.card-cost h1 sup {
+    font-size: 1rem;
+}
+
+@media (min-width: 1024px) and (max-width: 1280px) {
+    .nav-middle-right .uk-navbar-nav a, .nav-middle-left .uk-navbar-nav a {
+        font-size: 1.4em !important;
+    }
+}
