@@ -1,9 +1,32 @@
+<div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1" uk-slideshow="ratio: 7:3; animation: fade; autoplay: true; autoplay-interval: 4000">
+
+    <div class="uk-slideshow-items afc-slider">
+        <!-- Slide -->
+        <div class="sldafc">
+            <a href="/">
+                <img src="{{ asset('/img/latest/u17champs.jpg')}}" alt="" uk-cover>
+                <span class="ovrlay"></span>
+                <div class="uk-position-center uk-position-small uk-text-center uk-light caption-div">
+                    <h2 class="uk-margin-remove">Third Consecutive Championship for Azam FC U17</h2>
+                    <p class="uk-margin-remove">
+                        <i class="ri-price-tag-3-fill"></i> News <i class="ri-time-line emptspc"></i>28/05/2024
+                    </p>
+                </div>
+            </a>
+        </div>
+        <!-- slide end -->
+    </div>
+
+    <a class="uk-position-center-left uk-position-small uk-hidden-hover" href uk-slidenav-previous uk-slideshow-item="previous"></a>
+    <a class="uk-position-center-right uk-position-small uk-hidden-hover" href uk-slidenav-next uk-slideshow-item="next"></a>
+
+</div>
+
 <div class="afc-carousel">
     <div class="hero-slides">
-        <div class="afc-slide active" uk-img="loading: eager"
-            style="background-image: url('{{ asset('/img/latest/newseason.jpg')}}');">
+
+        <!-- <div class="afc-slide active" uk-img="loading: eager" style="background-image: url('{{ asset('/img/latest/newseason.jpg')}}');">
             <span class="bgtop"></span>
-            <!-- Hero Items Inside Slide -->
             <span class="hero-meta">
                 <h1 class="hero-title"> <a href="{{ url('post26')}}">New Season Preparations underway
                     </a></h1>
@@ -21,8 +44,7 @@
                     </p>
                 </div>
             </span>
-            <!-- Hero Items Inside Slide -->
-        </div>
+        </div> -->
         <!-- <div class="afc-slide" uk-img="loading: eager"
             style="background-image: url('{{ asset('/img/latest/finalmatch.jpg')}}');">
             <span class="bgtop"></span>
