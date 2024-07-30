@@ -13,13 +13,13 @@
         <div>
             <div class="uk-bg-highlight bg-h-light uk-padding">
                 <div class="plyr-container" uk-scrollspy="cls: uk-animation-fade; target: .uk-card; delay: 100; repeat: true">
-                    <img src="{{asset('img/players/profiles/keeper.png')}}" class="playerprfl" loading="lazy" />
+                    <img src="{{asset('img/players/profiles/default.png')}}" class="playerprfl" loading="lazy" />
                 </div>
                 <div class="player-no">
                     <!-- <h1>29</h1> -->
                 </div>
                 <div class="player-pos">
-                    <h1> 16 </h1>
+                    <h1> 4 </h1>
                     <!-- <a href="/"><span class="uk-label">SENIOR TEAM</span></a> -->
                 </div>
             </div>
@@ -27,9 +27,9 @@
         <div>
             <div class="uk-background-primary uk-padding uk-light">
                 <div class="player-details-info" uk-scrollspy="cls: uk-animation-fade; target: .uk-card; delay: 100; repeat: true">
-                    <h3> MOHAMED MUSTAFA MOHAMES </h3>
+                    <h3> YANNICK LITOMBO BANGALA </h3>
                     <h2 class="uk-heading-line uk-text-right uk-text-warning posspan">
-                        <span>GOALKEEPER</span>
+                        <span>CENTRE BACK</span>
                     </h2>
 
                 </div>
@@ -50,7 +50,7 @@
                         </div>
                         <div class="uk-width-expand@m">
                             <span class="title-sm-main">POSITION<br /></span>
-                            <span class="title-sm-tp">GOALKEEPER</span>
+                            <span class="title-sm-tp">DEFENDER</span>
                         </div>
                     </div>
                 </div>
@@ -63,7 +63,7 @@
                         </div>
                         <div class="uk-width-expand@m">
                             <span class="title-sm-main">NATIONALITY <br /></span>
-                            <span class="title-sm-tp"> SUDAN </span>
+                            <span class="title-sm-tp"> CONGO </span>
                         </div>
                     </div>
                 </div>
@@ -76,7 +76,7 @@
                         </div>
                         <div class="uk-width-expand@m plyr-birthdate">
                             <span class="title-sm-main">BIRTHDATE<br /></span>
-                            <span class="title-sm-tp">19.02.1996</span>
+                            <span class="title-sm-tp">12.04.1994</span>
                         </div>
                     </div>
                 </div>
@@ -102,7 +102,7 @@
                         </div>
                         <div class="uk-width-expand@m">
                             <span class="title-sm-main">PREVIOUS CLUB<br /></span>
-                            <span class="title-sm-tp">AL-MERRIKH SC</span>
+                            <span class="title-sm-tp">YANGA</span>
                         </div>
                     </div>
                 </div>

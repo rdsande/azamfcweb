@@ -236,3 +236,84 @@
         </div>
     </a>
 </li>
+
+<li>
+    <a href="{{url('player30')}}">
+        <div>
+            <div class="uk-card uk-card-default uk-card-body uk-animation-toggle" tabindex="0">
+                <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
+                    <span class="bgtop"></span>
+                    <img loading="lazy" class="uk-transition-scale-up uk-transition-opaque" src="{{ asset('/img/players/profiles/default.png')}}" width="1800" height="1200" alt="">
+                </div>
+                <div class="player-card-details uk-animation-slide-bottom-medium">
+                    <div class="uk-child-width-expand@s uk-text-center" uk-grid>
+                        <div>
+                            <span class="uk-heading-divider"> YANNICK LITOMBO <span class="secondname"> BANGALA
+                                </span></span>
+                            <span class="pos-player"> Defender </span>
+                        </div>
+                        <div>
+                            <span class="plyr-number">
+                                4
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</li>
+
+<li>
+    <a href="{{url('player31')}}">
+        <div>
+            <div class="uk-card uk-card-default uk-card-body uk-animation-toggle" tabindex="0">
+                <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
+                    <span class="bgtop"></span>
+                    <img loading="lazy" class="uk-transition-scale-up uk-transition-opaque" src="{{ asset('/img/players/profiles/default.png')}}" width="1800" height="1200" alt="">
+                </div>
+                <div class="player-card-details uk-animation-slide-bottom-medium">
+                    <div class="uk-child-width-expand@s uk-text-center" uk-grid>
+                        <div>
+                            <span class="uk-heading-divider"> ABDALLA SALUM <span class="secondname"> KHERI
+                                </span></span>
+                            <span class="pos-player"> Defender </span>
+                        </div>
+                        <div>
+                            <span class="plyr-number">
+                                25
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</li>
+
+<li>
+    <a href="{{url('player31')}}">
+        <div>
+            <div class="uk-card uk-card-default uk-card-body uk-animation-toggle" tabindex="0">
+                <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
+                    <span class="bgtop"></span>
+                    <img loading="lazy" class="uk-transition-scale-up uk-transition-opaque" src="{{ asset('/img/players/profiles/default.png')}}" width="1800" height="1200" alt="">
+                </div>
+                <div class="player-card-details uk-animation-slide-bottom-medium">
+                    <div class="uk-child-width-expand@s uk-text-center" uk-grid>
+                        <div>
+                            <span class="uk-heading-divider"> DIABY YORO <span class="secondname"> MAMADOU
+                                </span></span>
+                            <span class="pos-player"> Defender </span>
+                        </div>
+                        <div>
+                            <span class="plyr-number">
+                                25
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</li>

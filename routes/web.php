@@ -139,6 +139,9 @@ Route::get('player29', function () {
     return view('/playerprofile/senior/pl29');
 });
 
+Route::get('player30', function () {
+    return view('/playerprofile/senior/pl30');
+});
 
 
 //PROFILES TEMP START ACADEMY
