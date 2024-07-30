@@ -4,7 +4,7 @@
         <!-- Slide -->
         <div class="sldafc">
             <a href="/">
-                <img src="{{ asset('/img/latest/u17champs.jpg')}}" alt="" uk-cover>
+                <img uk-img="loading: eager" src="{{ asset('/img/latest/u17champs.jpg')}}" alt="" uk-cover>
                 <span class="ovrlay"></span>
                 <div class="uk-position-center uk-position-small uk-text-center uk-light caption-div">
                     <h2 class="uk-margin-remove">Third Consecutive Championship for Azam FC U17</h2>
