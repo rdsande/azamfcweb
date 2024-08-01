@@ -81,14 +81,6 @@ div#uk-slideshow-21-items {
     height: 30rem !important;
 }
 
-.afc-slider {
-    height: 420px !important;
-}
-
-h1.hero-title, h1.hero-title a, .uk-slideshow-items h2 {
-    font-size: 32px;
-}
-
 span.ovrlay {
     height: 30rem;
 }
@@ -439,6 +431,14 @@ h1.hero-title, h1.hero-title a {
 @media only screen and (max-width: 600px) {
 	.afc-footer img {
     width: 120px;
+}
+
+.afc-slider {
+    height: 420px !important;
+}
+
+h1.hero-title, h1.hero-title a, .uk-slideshow-items h2 {
+    font-size: 32px;
 }
 
 .socialmediacontainer li i {
