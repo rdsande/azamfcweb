@@ -4,6 +4,20 @@
         <!-- Slide -->
         <div class="sldafc">
             <a href="/">
+                <img uk-img="loading: eager" src="{{ asset('/img/latest/newjersey.jpg')}}" alt="" uk-cover>
+                <span class="ovrlay"></span>
+                <div class="uk-position-center uk-position-small uk-text-center uk-light caption-div">
+                    <h2 class="uk-margin-remove">Azam FC Kits for the new season released!</h2>
+                    <p class="uk-margin-remove">
+                        <i class="ri-price-tag-3-fill"></i> News <i class="ri-time-line emptspc"></i>01/08/2024
+                    </p>
+                </div>
+            </a>
+        </div>
+        <!-- slide end -->
+        <!-- Slide -->
+        <div class="sldafc">
+            <a href="/">
                 <img uk-img="loading: eager" src="{{ asset('/img/latest/u17champs.jpg')}}" alt="" uk-cover>
                 <span class="ovrlay"></span>
                 <div class="uk-position-center uk-position-small uk-text-center uk-light caption-div">

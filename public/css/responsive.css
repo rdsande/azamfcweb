@@ -81,6 +81,14 @@ div#uk-slideshow-21-items {
     height: 30rem !important;
 }
 
+.afc-slider {
+    height: 420px !important;
+}
+
+h1.hero-title, h1.hero-title a, .uk-slideshow-items h2 {
+    font-size: 32px;
+}
+
 span.ovrlay {
     height: 30rem;
 }
